@@ -364,8 +364,12 @@
       "_chunk-BCz-6Eeh.js"
     ]
   },
-  "_cp-4x6mVTLG.js": {
-    "file": "assets/cp-4x6mVTLG.js",
+  "_cp-DD153PCl.css": {
+    "file": "assets/cp-DD153PCl.css",
+    "src": "_cp-DD153PCl.css"
+  },
+  "_cp-DMy2RO8H.js": {
+    "file": "assets/cp-DMy2RO8H.js",
     "name": "cp",
     "imports": [
       "_useCraftData-DmVPakwN.js",
@@ -425,10 +429,6 @@
     "css": [
       "assets/cp-DD153PCl.css"
     ]
-  },
-  "_cp-DD153PCl.css": {
-    "file": "assets/cp-DD153PCl.css",
-    "src": "_cp-DD153PCl.css"
   },
   "_cp-global-sidebar-CLrlqApt.js": {
     "file": "assets/cp-global-sidebar-CLrlqApt.js",
@@ -713,8 +713,8 @@
     "file": "assets/lit-BpPOIUnZ.js",
     "name": "lit"
   },
-  "_login-form-DILJhXWQ.js": {
-    "file": "assets/login-form-DILJhXWQ.js",
+  "_login-form-DXAQXydm.js": {
+    "file": "assets/login-form-DXAQXydm.js",
     "name": "login-form",
     "imports": [
       "_decorate-sEzBNQWl.js",
@@ -2078,41 +2078,41 @@
     "isEntry": true
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-Bpx63wbi.js",
+    "file": "assets/cp-BrLPkCNG.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-4x6mVTLG.js"
+      "_cp-DMy2RO8H.js"
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-Dgrmnhg9.js",
+    "file": "assets/cp-Dj0xZBVD.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-rrQxht5C.js",
-      "_cp-4x6mVTLG.js",
+      "_cp-DMy2RO8H.js",
       "_cp-queue-indicator-CxB5neHT.js",
       "_field-layout-designer-Dy67-fO0.js",
       "_cp-global-sidebar-CLrlqApt.js"
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-udbdAeBS.js",
+    "file": "assets/legacy-CvAIR31P.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_cp-rrQxht5C.js",
-      "_login-form-DILJhXWQ.js",
+      "_login-form-DXAQXydm.js",
       "_field-layout-designer-Dy67-fO0.js",
       "_set-password-form-Cky9iD35.js",
       "_verify-email-form-EddQwKhL.js"
     ],
     "dynamicImports": [
-      "_cp-4x6mVTLG.js",
+      "_cp-DMy2RO8H.js",
       "_nav-list.ts-DjsniC4m.js",
       "packages/craftcms-cp/dist/components/nav-item/nav-item.ts.mjs",
       "_cp-global-sidebar-CLrlqApt.js",
@@ -2197,14 +2197,14 @@
     ]
   },
   "resources/js/pages/auth/Login.vue": {
-    "file": "assets/Login-BzEz2s_a.js",
+    "file": "assets/Login-CdE9X66m.js",
     "name": "Login",
     "src": "resources/js/pages/auth/Login.vue",
     "isDynamicEntry": true,
     "imports": [
       "_useCraftData-DmVPakwN.js",
       "_dist-TWDtQdj5.js",
-      "_login-form-DILJhXWQ.js",
+      "_login-form-DXAQXydm.js",
       "_LoginController-DJjNDhRd.js",
       "_AuthBase-3h7yQWYf.js"
     ]
