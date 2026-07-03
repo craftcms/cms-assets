@@ -1,0 +1,1 @@
+import{t as e}from"./bg-D9IYom1N.js";var t={...e};export{t as default};
