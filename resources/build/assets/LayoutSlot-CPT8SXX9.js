@@ -1,0 +1,1 @@
+import{A as e,B as t,G as n,H as r,S as i,v as a,z as o}from"./dist-CVaZmsU2.js";import{n as s,r as c}from"./layoutSlots-Dbw4pUDi.js";var l=e({__name:`LayoutSlot`,props:{name:{}},setup(e){let l=e;return t(()=>s(l.name)),o(()=>c(l.name)),(t,o)=>(r(),i(a,{defer:``,to:`[data-layout-slot='${e.name}']`},[n(t.$slots,`default`)],8,[`to`]))}});export{l as t};

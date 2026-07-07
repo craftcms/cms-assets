@@ -1,1 +1,0 @@
-import{K as e,S as t,V as n,k as r,x as i,y as a}from"./dist-TWDtQdj5.js";var o=r({__name:`DynamicHtmlRenderer`,props:{html:{}},setup(o){let s=o,c=a(()=>r({template:s.html}));return(r,a)=>o.html?(n(),i(e(c.value),{key:0})):t(``,!0)}});export{o as t};
