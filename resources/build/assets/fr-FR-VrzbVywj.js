@@ -1,1 +1,0 @@
-import{t as e}from"./fr-BUV44s_l.js";var t={...e};export{t as default};

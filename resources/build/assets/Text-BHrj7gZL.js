@@ -1,0 +1,1 @@
+import{i as e}from"./nav-item-DHchnjtQ-DYmN4scY.js";import"./cp-MigBL4p5.js";import{A as t,H as n,L as r,S as i,b as a,q as o}from"./dist-CVaZmsU2.js";var s=t({__name:`Text`,props:{as:{default:`div`},template:{},params:{}},setup(t){let s=t,c=a(()=>e(s.template,s.params));return(e,a)=>(n(),i(o(t.as),r(e.$attrs,{innerHTML:c.value}),null,16,[`innerHTML`]))}});export{s as t};
