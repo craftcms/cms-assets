@@ -1,0 +1,1 @@
+import{t as e}from"./fr-ucYeQpKn.js";var t={...e};export{t as default};

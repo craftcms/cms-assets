@@ -1,1 +1,0 @@
-import{et as e,o as t}from"./dist-CVaZmsU2.js";function n(n){let r=typeof n==`function`?n:()=>n;e(()=>t(r()))}export{n as t};
