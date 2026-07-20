@@ -23258,6 +23258,20 @@ return array (
       4 => 'duotone',
     ),
   ),
+  'grip-dots' => 
+  array (
+    'name' => ' grip dots ',
+    'terms' => ' circles drag drop ellipsis grab grid handle move ',
+    'pro' => true,
+    'styles' => 
+    array (
+      0 => 'solid',
+      1 => 'regular',
+      2 => 'light',
+      3 => 'thin',
+      4 => 'duotone',
+    ),
+  ),
   'grip-dots-vertical' => 
   array (
     'name' => ' grip dots vertical ',

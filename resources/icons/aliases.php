@@ -519,7 +519,6 @@ $reflectionProperty->setValue($aliases, array_merge_recursive($reflectionPropert
         '@appicons/pushed.svg' => "@icons/brands/pushed.svg",
         '@appicons/wordpress-simple.svg' => "@icons/brands/wordpress-simple.svg",
         '@appicons/nutritionix.svg' => "@icons/brands/nutritionix.svg",
-        '@appicons/grip-dots.svg' => "@icons/custom-icons/grip-dots.svg",
         '@appicons/wodu.svg' => "@icons/brands/wodu.svg",
         '@appicons/google-pay.svg' => "@icons/brands/google-pay.svg",
         '@appicons/intercom.svg' => "@icons/brands/intercom.svg",
