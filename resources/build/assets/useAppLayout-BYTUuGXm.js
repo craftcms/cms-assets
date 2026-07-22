@@ -1,0 +1,1 @@
+import{q as e}from"./vue.esm-bundler-CC6ZC8P1.js";import{o as t}from"./dist-De8owbW2.js";function n(n){let r=typeof n==`function`?n:()=>n;e(()=>t(r()))}export{n as t};
