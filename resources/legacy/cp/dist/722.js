@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[722,767],{767:function(a,i,n){n.r(i),i.default={validationError:"Hatalı",validationWarning:"Uyarı",validationSuccess:"Başarılı",validationInfo:"Bilgilendirme"}},2722:function(a,i,n){n.r(i);var l=n(767);i.default={...l.default}}}]);
+//# sourceMappingURL=722.js.map

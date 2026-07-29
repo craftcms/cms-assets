@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[593],{1593:function(a,n,i){i.r(n),n.default={validationError:"Błąd,",validationWarning:"Ostrzeżenie,",validationSuccess:"Zrealizowano pomyślnie,",validationInfo:"Informacja,"}}}]);
+//# sourceMappingURL=593.js.map
