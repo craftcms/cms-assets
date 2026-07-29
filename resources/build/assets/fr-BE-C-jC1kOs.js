@@ -1,0 +1,1 @@
+import{t as e}from"./fr-CKLi2OFj.js";var t={...e};export{t as default};
