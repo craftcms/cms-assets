@@ -1,1 +1,0 @@
-import{T as e,U as t,j as n,st as r,yt as i}from"./dist-Wg2xfRT3.js";import{t as a}from"./useAnnouncer-DwO5pCuE.js";var o={class:`sr-only`,role:`status`},s=n({__name:`LiveRegion`,setup(n){let{announcement:s}=a();return(n,a)=>(t(),e(`div`,o,r(i(s)),1))}});export{s as t};
