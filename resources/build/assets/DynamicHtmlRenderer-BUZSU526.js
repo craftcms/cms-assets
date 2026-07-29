@@ -1,0 +1,1 @@
+import{C as e,J as t,U as n,j as r,w as i,x as a}from"./dist-Wg2xfRT3.js";var o=r({__name:`DynamicHtmlRenderer`,props:{html:{}},setup(o){let s=o,c=a(()=>r({template:s.html}));return(r,a)=>o.html?(n(),e(t(c.value),{key:0})):i(``,!0)}});export{o as t};

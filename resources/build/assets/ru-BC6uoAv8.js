@@ -1,0 +1,1 @@
+import{t as e}from"./ru-BIrMaBIg.js";export{e as default};

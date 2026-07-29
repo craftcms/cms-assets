@@ -1,0 +1,1 @@
+import{t as e}from"./bg-BAWT4bbI.js";var t={...e};export{t as default};

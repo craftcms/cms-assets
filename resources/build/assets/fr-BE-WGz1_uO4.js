@@ -1,0 +1,1 @@
+import{t as e}from"./fr-bGP4At5d.js";var t={...e};export{t as default};
