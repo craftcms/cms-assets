@@ -1,0 +1,1 @@
+import{T as e,U as t,bt as n,j as r,st as i}from"./dist-BS_8D6Wv.js";import{t as a}from"./useAnnouncer-CdMoAPoS.js";var o={class:`sr-only`,role:`status`},s=r({__name:`LiveRegion`,setup(r){let{announcement:s}=a();return(r,a)=>(t(),e(`div`,o,i(n(s)),1))}});export{s as t};
