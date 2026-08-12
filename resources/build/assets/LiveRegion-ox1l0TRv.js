@@ -1,0 +1,1 @@
+import{St as e,T as t,W as n,ct as r,j as i}from"./dist-Dg12kclf.js";import{n as a}from"./login-form.styles-7FE1MZuY.js";var o={class:`sr-only`,role:`status`},s=i({__name:`LiveRegion`,setup(i){let{announcement:s}=a();return(i,a)=>(n(),t(`div`,o,r(e(s)),1))}});export{s as t};

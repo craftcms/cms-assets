@@ -1,1 +1,0 @@
-import{nt as e,o as t}from"./dist-rrDz25oF.js";import{l as n}from"./screen--AOjLr_2.js";function r(r){let i=typeof r==`function`?r:()=>r,a=n(),o=a?e=>a.set(e):t;e(()=>o(i()))}export{r as t};
