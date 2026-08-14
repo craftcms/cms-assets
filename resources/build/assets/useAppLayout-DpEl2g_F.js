@@ -1,0 +1,1 @@
+import{o as e,tt as t}from"./dist-BuBOrRe5.js";import{l as n}from"./screen-CXzd90C5.js";function r(r){let i=typeof r==`function`?r:()=>r,a=n(),o=a?e=>a.set(e):e;t(()=>o(i()))}export{r as t};

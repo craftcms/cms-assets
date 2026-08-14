@@ -1,1 +1,0 @@
-import{A as e,S as t,U as n}from"./dist-CXcGf90G.js";import{t as r}from"./ElementEditPage-CCgHQO4D.js";var i=e({__name:`Edit`,props:{userId:{},redirectUrl:{}},setup(e){let i=e,a=()=>({userId:i.userId});return(e,i)=>(n(),t(r,{"save-data":a}))}});export{i as default};
