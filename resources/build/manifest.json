@@ -520,8 +520,8 @@
       "_rolldown-runtime-CNC7AqOf.js"
     ]
   },
-  "_cp-app-n5Hcy8-d.js": {
-    "file": "assets/cp-app-n5Hcy8-d.js",
+  "_cp-app-C8h1M0QG.js": {
+    "file": "assets/cp-app-C8h1M0QG.js",
     "name": "cp-app",
     "imports": [
       "_dist-CY5HaU72.js",
@@ -576,6 +576,20 @@
       "_decorate-B3KLIx2E.js"
     ]
   },
+  "_cp-o9Q983w5.js": {
+    "file": "assets/cp-o9Q983w5.js",
+    "name": "cp",
+    "imports": [
+      "_dist-CY5HaU72.js",
+      "_progress.ts-Cuortqxu.js",
+      "_nav-item-DEjaz-rb-B-cPuDFl.js",
+      "_wayfinder-Byp9MxZi.js",
+      "_useSlideout-zEmEa8F0.js",
+      "_AppLayout-DIWW1oWq.js",
+      "_slideouts-NOu9cSeQ.js",
+      "_cp-app-C8h1M0QG.js"
+    ]
+  },
   "_cp-queue-indicator-CKgC7wLd.js": {
     "file": "assets/cp-queue-indicator-CKgC7wLd.js",
     "name": "cp-queue-indicator",
@@ -586,20 +600,6 @@
       "_progress.ts-Cuortqxu.js",
       "_decorate-B3KLIx2E.js",
       "_queue-VxT4j09c.js"
-    ]
-  },
-  "_cp-s3lnl9qi.js": {
-    "file": "assets/cp-s3lnl9qi.js",
-    "name": "cp",
-    "imports": [
-      "_dist-CY5HaU72.js",
-      "_progress.ts-Cuortqxu.js",
-      "_nav-item-DEjaz-rb-B-cPuDFl.js",
-      "_wayfinder-Byp9MxZi.js",
-      "_useSlideout-zEmEa8F0.js",
-      "_AppLayout-DIWW1oWq.js",
-      "_slideouts-NOu9cSeQ.js",
-      "_cp-app-n5Hcy8-d.js"
     ]
   },
   "_createCraftColumnHelper-KhhhmyC8.js": {
@@ -1100,8 +1100,8 @@
     "file": "assets/tr-BoMERIKA.js",
     "name": "tr"
   },
-  "_ui-Bm57WgWQ.js": {
-    "file": "assets/ui-Bm57WgWQ.js",
+  "_ui-BMvsALow.js": {
+    "file": "assets/ui-BMvsALow.js",
     "name": "ui",
     "imports": [
       "_dist-CY5HaU72.js",
@@ -1112,7 +1112,7 @@
       "_login-form-BIYl1xBf.js",
       "_slideouts-NOu9cSeQ.js",
       "_queue-VxT4j09c.js",
-      "_cp-app-n5Hcy8-d.js",
+      "_cp-app-C8h1M0QG.js",
       "_DataTable-BaEq00-M.js",
       "_FormRenderer-CZvY0zbU.js",
       "_jquery-l2h0izQQ.js",
@@ -2426,26 +2426,26 @@
     "src": "resources/images/craftcms.svg"
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-DWFCNnSI.js",
+    "file": "assets/cp-Bo7yPAEl.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-s3lnl9qi.js"
+      "_cp-o9Q983w5.js"
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-BjrwCILy.js",
+    "file": "assets/cp-DWxtRfwW.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_dist-CY5HaU72.js",
       "_cp-global-sidebar-Czzud3Yp.js",
-      "_ui-Bm57WgWQ.js",
+      "_ui-BMvsALow.js",
       "_login-form-BIYl1xBf.js",
-      "_cp-s3lnl9qi.js",
-      "_cp-app-n5Hcy8-d.js",
+      "_cp-o9Q983w5.js",
+      "_cp-app-C8h1M0QG.js",
       "_jquery-l2h0izQQ.js",
       "_cp-queue-indicator-CKgC7wLd.js",
       "_elevated-session-ClMZcAug.js",
@@ -2453,15 +2453,15 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-9_-ycHQ2.js",
+    "file": "assets/legacy-DyoVHN8v.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_dist-CY5HaU72.js",
-      "_ui-Bm57WgWQ.js",
+      "_ui-BMvsALow.js",
       "_login-form-BIYl1xBf.js",
-      "_cp-app-n5Hcy8-d.js",
+      "_cp-app-C8h1M0QG.js",
       "_FormRenderer-CZvY0zbU.js",
       "_elevated-session-ClMZcAug.js",
       "_element-deletion-manager-pAKiIZfB.js",
@@ -2469,7 +2469,7 @@
       "_verify-email-form-Bj2NEld3.js"
     ],
     "dynamicImports": [
-      "_cp-s3lnl9qi.js",
+      "_cp-o9Q983w5.js",
       "_nav-list.ts-BQrVaALw.js",
       "packages/craftcms-ui/dist/components/nav-item/nav-item.ts.mjs",
       "_cp-global-sidebar-Czzud3Yp.js",
@@ -3388,14 +3388,14 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-CqoHadQ9.js",
+    "file": "assets/cp-CqWJ-ZrG.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_dist-CY5HaU72.js",
       "_DynamicHtmlRenderer-CM2cvuIV.js",
-      "_cp-s3lnl9qi.js",
+      "_cp-o9Q983w5.js",
       "_FormRenderer-CZvY0zbU.js",
       "_LayoutSlot-vOjT3YPh.js"
     ]
