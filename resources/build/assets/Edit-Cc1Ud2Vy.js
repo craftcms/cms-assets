@@ -1,0 +1,1 @@
+import{A as e,S as t,U as n}from"./dist-CY5HaU72.js";import{t as r}from"./ElementEditPage-BF6urRjC.js";var i=e({__name:`Edit`,props:{saveId:{},siteId:{},entryTypeId:{},sectionHandle:{}},setup(e){let i=e,a=()=>({entryId:i.saveId,siteId:i.siteId,typeId:i.entryTypeId});return(e,i)=>(n(),t(r,{"save-data":a}))}});export{i as default};
