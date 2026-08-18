@@ -1,0 +1,1 @@
+import{a as e,i as t,s as n}from"./useSlideout-CZvqHS7Y.js";import"./AppLayout-B8QJPUJQ.js";function r(){let r=window.Craft;r&&(r.openSlideout=n,r.closeSlideout=e,r.closeAllSlideouts=t)}export{r as t};
