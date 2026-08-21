@@ -1,0 +1,1 @@
+import{A as e,C as t,J as n,S as r,U as i,b as a}from"./dist-BeCr9vU7.js";var o=e({__name:`DynamicHtmlRenderer`,props:{html:{}},setup(o){let s=o,c=/<\?[\s\S]*?\?>/g,l=a(()=>s.html.replace(c,``)),u=a(()=>e({template:l.value}));return(e,a)=>o.html?(i(),r(n(u.value),{key:0})):t(``,!0)}});export{o as t};
