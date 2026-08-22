@@ -1,0 +1,1 @@
+import{A as e,J as t,L as n,S as r,U as i,b as a}from"./dist-C9NGHA1v.js";import{_ as o}from"./nav-item-CK1RuKgI-BSBXLVzO.js";var s=e({__name:`Text`,props:{as:{default:`div`},template:{},params:{}},setup(e){let s=e,c=a(()=>o(s.template,s.params));return(a,o)=>(i(),r(t(e.as),n(a.$attrs,{innerHTML:c.value}),null,16,[`innerHTML`]))}});export{s as t};
