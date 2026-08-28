@@ -1,1 +1,0 @@
-import{A as e,J as t,S as n,St as r,U as i}from"./dist-C9NGHA1v.js";import{s as a}from"./screen-P2YR1iBF.js";import{n as o,t as s}from"./ElementEditScreen-yCXqSvBM.js";var c=e({layout:[],__name:`Edit`,props:{userId:{},redirectUrl:{}},setup(e){let c=e,l=a()?o:s,u=()=>({userId:c.userId});return(e,a)=>(i(),n(t(r(l)),{"save-data":u}))}});export{c as default};
