@@ -1,0 +1,1 @@
+import{Vt as e,jn as t,lr as n,nt as r,q as i}from"./vue.esm-bundler-CI7ZVqjc.js";import{t as a}from"./useAnnouncer-7zYa5hX9.js";var o={class:`sr-only`,role:`status`},s=r({__name:`LiveRegion`,setup(r){let{announcement:s}=a();return(r,a)=>(e(),i(`div`,o,t(n(s)),1))}});export{s as t};

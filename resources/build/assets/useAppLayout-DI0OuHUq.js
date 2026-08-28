@@ -1,1 +1,0 @@
-import{o as e,tt as t}from"./dist-C9NGHA1v.js";import{u as n}from"./screen-P2YR1iBF.js";function r(r){let i=r instanceof Function?r:()=>r,a=n(),o=a?e=>a.set(e):t=>e(t);t(()=>o(i()))}export{r as t};

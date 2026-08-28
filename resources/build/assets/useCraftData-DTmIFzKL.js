@@ -1,1 +1,0 @@
-import{l as e}from"./dist-C9NGHA1v.js";function t(e,t){let n=new URL(e),r=t.startsWith(`/`)?t.slice(1):t;return n.pathname=`${n.pathname}/${r}`,n.toString()}function n(){let e=r();return{getActionUrl(n){return t(e.actionUrl,n)},getCpUrl(t){return`${e.cpUrl}${t}`},getApiUrl(n){return t(e.baseApiUrl,n)}}}function r(){return e().props.craft}export{n,r as t};
