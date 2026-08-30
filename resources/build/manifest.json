@@ -696,8 +696,8 @@
       "node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
-  "_cp-DzTmTEcU.js": {
-    "file": "assets/cp-DzTmTEcU.js",
+  "_cp-DogtOowX.js": {
+    "file": "assets/cp-DogtOowX.js",
     "name": "cp",
     "imports": [
       "_cp-De4cTMDt.js",
@@ -709,12 +709,16 @@
       "_AppLayout-jOYjM1Dx.js",
       "_useAnnouncer-7zYa5hX9.js",
       "_slideouts-JHHJygkb.js",
-      "_cp-app-BKLoILjP.js",
+      "_cp-app-D2Le7RkB.js",
       "_components-YCWTbfZ8.js"
     ]
   },
-  "_cp-app-BKLoILjP.js": {
-    "file": "assets/cp-app-BKLoILjP.js",
+  "_cp-app-BcBre2oO.css": {
+    "file": "assets/cp-app-BcBre2oO.css",
+    "src": "_cp-app-BcBre2oO.css"
+  },
+  "_cp-app-D2Le7RkB.js": {
+    "file": "assets/cp-app-D2Le7RkB.js",
     "name": "cp-app",
     "imports": [
       "_cp-De4cTMDt.js",
@@ -764,10 +768,6 @@
     "css": [
       "assets/cp-app-BcBre2oO.css"
     ]
-  },
-  "_cp-app-BcBre2oO.css": {
-    "file": "assets/cp-app-BcBre2oO.css",
-    "src": "_cp-app-BcBre2oO.css"
   },
   "_cp-global-sidebar-Czzud3Yp.js": {
     "file": "assets/cp-global-sidebar-Czzud3Yp.js",
@@ -1238,8 +1238,8 @@
     "file": "assets/tr-BoMERIKA.js",
     "name": "tr"
   },
-  "_ui-Bt0DdbcJ.js": {
-    "file": "assets/ui-Bt0DdbcJ.js",
+  "_ui-BVMcpXiR.js": {
+    "file": "assets/ui-BVMcpXiR.js",
     "name": "ui",
     "imports": [
       "_cp-De4cTMDt.js",
@@ -1251,7 +1251,7 @@
       "_login-form-DMVa1Ch0.js",
       "_slideouts-JHHJygkb.js",
       "_queue-CA-bOLsW.js",
-      "_cp-app-BKLoILjP.js",
+      "_cp-app-D2Le7RkB.js",
       "_DataTable-hjByzn-5.js",
       "_FormRenderer-CIk3wRNA.js",
       "_create-element-selector-modal-BEJms4BX.js",
@@ -2645,12 +2645,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-DZCbcrH2.js",
+    "file": "assets/cp-CTWAfxjr.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-DzTmTEcU.js"
+      "_cp-DogtOowX.js"
     ]
   },
   "resources/js/common/components/CpLink.vue": {
@@ -2674,17 +2674,19 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-C6ZIG3kY.js",
+    "file": "assets/cp-PQ39Mag6.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-De4cTMDt.js",
       "_cp-global-sidebar-Czzud3Yp.js",
-      "_ui-Bt0DdbcJ.js",
+      "_ui-BVMcpXiR.js",
+      "_useSlideout-DoNbHmPY.js",
       "_login-form-DMVa1Ch0.js",
-      "_cp-DzTmTEcU.js",
-      "_cp-app-BKLoILjP.js",
+      "_slideouts-JHHJygkb.js",
+      "_cp-DogtOowX.js",
+      "_cp-app-D2Le7RkB.js",
       "_jquery-PoC5RZT2.js",
       "_cp-queue-indicator-RByrVmxw.js",
       "_elevated-session-eu-gXTr1.js",
@@ -2693,17 +2695,17 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-YWYl-pIm.js",
+    "file": "assets/legacy-DNj_K0Ee.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_cp-De4cTMDt.js",
       "_nav-item-CK1RuKgI-C1XP6PDh.js",
-      "_ui-Bt0DdbcJ.js",
+      "_ui-BVMcpXiR.js",
       "_vue.esm-bundler-CI7ZVqjc.js",
       "_login-form-DMVa1Ch0.js",
-      "_cp-app-BKLoILjP.js",
+      "_cp-app-D2Le7RkB.js",
       "_FormRenderer-CIk3wRNA.js",
       "_elevated-session-eu-gXTr1.js",
       "_element-deletion-manager-x_ogK-8Q.js",
@@ -2711,7 +2713,7 @@
       "_verify-email-form-BrnmR6ui.js"
     ],
     "dynamicImports": [
-      "_cp-DzTmTEcU.js",
+      "_cp-DogtOowX.js",
       "_nav-list.ts-DPwcLr0r.js",
       "packages/craftcms-ui/dist/components/nav-item/nav-item.ts.mjs",
       "_cp-global-sidebar-Czzud3Yp.js",
@@ -3777,14 +3779,14 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-DJ70SAEB.js",
+    "file": "assets/cp-5jiTXYn_.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_vue.esm-bundler-CI7ZVqjc.js",
       "_DynamicHtmlRenderer-DdHyMsXp.js",
-      "_cp-DzTmTEcU.js",
+      "_cp-DogtOowX.js",
       "_FormRenderer-CIk3wRNA.js",
       "_LayoutSlot-CQnybruY.js"
     ]
