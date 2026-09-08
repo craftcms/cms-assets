@@ -1,1 +1,0 @@
-import{a as e,i as t,s as n}from"./useSlideout-DU3Bkp_4.js";import"./AppLayout-CYN-JDTs.js";function r(){let r=window.Craft;r&&Object.assign(r,{openSlideout:n,closeSlideout:e,closeAllSlideouts:t})}export{r as t};
