@@ -1,0 +1,1 @@
+import{u as e}from"./dist-DFOc0RqO.js";function t(e){return`Craft-${Craft.systemUid}.${e}`}function n(n,r,i=localStorage,a){return e(t(n),r,i,a)}function r(e,t,r){return n(e,t,localStorage,r)}export{r as t};
