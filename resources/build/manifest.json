@@ -853,29 +853,12 @@
       "node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
-  "_cp-Dk3apxOZ.js": {
-    "file": "assets/cp-Dk3apxOZ.js",
-    "name": "cp",
-    "imports": [
-      "_cp-CET_9-jI.js",
-      "_progress.ts-NoSJiHsg.js",
-      "_nav-item-B7SMQzLR-BRi-ciAj.js",
-      "_dist-CPJ7Sq25.js",
-      "_wayfinder-Byp9MxZi.js",
-      "_useSlideout-DCbFaf8p.js",
-      "_AppLayout-CJPi_vOX.js",
-      "_useAnnouncer-7zYa5hX9.js",
-      "_slideouts-rcPITQlq.js",
-      "_cp-app-DNMa7J0W.js",
-      "_components-YCWTbfZ8.js"
-    ]
-  },
   "_cp-app-Bfg6nKTt.css": {
     "file": "assets/cp-app-Bfg6nKTt.css",
     "src": "_cp-app-Bfg6nKTt.css"
   },
-  "_cp-app-DNMa7J0W.js": {
-    "file": "assets/cp-app-DNMa7J0W.js",
+  "_cp-app-DjE4uUdG.js": {
+    "file": "assets/cp-app-DjE4uUdG.js",
     "name": "cp-app",
     "imports": [
       "_cp-CET_9-jI.js",
@@ -983,6 +966,23 @@
       "_progress.ts-NoSJiHsg.js",
       "_decorate-B3KLIx2E.js",
       "_queue-CA-bOLsW.js"
+    ]
+  },
+  "_cp-uk2d95Xl.js": {
+    "file": "assets/cp-uk2d95Xl.js",
+    "name": "cp",
+    "imports": [
+      "_cp-CET_9-jI.js",
+      "_progress.ts-NoSJiHsg.js",
+      "_nav-item-B7SMQzLR-BRi-ciAj.js",
+      "_dist-CPJ7Sq25.js",
+      "_wayfinder-Byp9MxZi.js",
+      "_useSlideout-DCbFaf8p.js",
+      "_AppLayout-CJPi_vOX.js",
+      "_useAnnouncer-7zYa5hX9.js",
+      "_slideouts-rcPITQlq.js",
+      "_cp-app-DjE4uUdG.js",
+      "_components-YCWTbfZ8.js"
     ]
   },
   "_create-element-selector-modal-6v2mSzYC.js": {
@@ -1467,8 +1467,8 @@
     "file": "assets/tr-BoMERIKA.js",
     "name": "tr"
   },
-  "_ui-DqPSHxB2.js": {
-    "file": "assets/ui-DqPSHxB2.js",
+  "_ui-BO1UPUtd.js": {
+    "file": "assets/ui-BO1UPUtd.js",
     "name": "ui",
     "imports": [
       "_cp-CET_9-jI.js",
@@ -1481,7 +1481,7 @@
       "_login-form-Z9U2OS39.js",
       "_slideouts-rcPITQlq.js",
       "_queue-CA-bOLsW.js",
-      "_cp-app-DNMa7J0W.js",
+      "_cp-app-DjE4uUdG.js",
       "_dom-CPLG2PvU.js",
       "_runtime-BPglj2mx.js",
       "_FormRenderer-Cbwo26Qh.js",
@@ -2908,12 +2908,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-cnmhN44G.js",
+    "file": "assets/cp-CHb80R6s.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-Dk3apxOZ.js"
+      "_cp-uk2d95Xl.js"
     ]
   },
   "resources/js/common/components/CpLink.vue": {
@@ -2937,20 +2937,20 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-hlDJlEV-.js",
+    "file": "assets/cp-Cauwn59O.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-CET_9-jI.js",
       "_cp-global-sidebar-Czzud3Yp.js",
-      "_ui-DqPSHxB2.js",
+      "_ui-BO1UPUtd.js",
       "_useSlideout-DCbFaf8p.js",
       "_src-eqlj5miF-BnbqNiQQ.js",
       "_login-form-Z9U2OS39.js",
       "_slideouts-rcPITQlq.js",
-      "_cp-Dk3apxOZ.js",
-      "_cp-app-DNMa7J0W.js",
+      "_cp-uk2d95Xl.js",
+      "_cp-app-DjE4uUdG.js",
       "_useElementActionMenu-BbWw9-yC.js",
       "_defineElement-BSeU7AAU.js",
       "_cp-queue-indicator-RByrVmxw.js",
@@ -2959,17 +2959,17 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-DcKp6y0P.js",
+    "file": "assets/legacy-J6rfl-bB.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_cp-CET_9-jI.js",
       "_nav-item-B7SMQzLR-BRi-ciAj.js",
-      "_ui-DqPSHxB2.js",
+      "_ui-BO1UPUtd.js",
       "_vue.esm-bundler-CI7ZVqjc.js",
       "_login-form-Z9U2OS39.js",
-      "_cp-app-DNMa7J0W.js",
+      "_cp-app-DjE4uUdG.js",
       "_FormRenderer-Cbwo26Qh.js",
       "_useElementActionMenu-BbWw9-yC.js",
       "_elevated-session-rWXCaVox.js",
@@ -2977,7 +2977,7 @@
       "_verify-email-form-TiF8jzGs.js"
     ],
     "dynamicImports": [
-      "_cp-Dk3apxOZ.js",
+      "_cp-uk2d95Xl.js",
       "_nav-list.ts-DPwcLr0r.js",
       "packages/craftcms-ui/dist/components/nav-item/nav-item.ts.mjs",
       "_cp-global-sidebar-Czzud3Yp.js",
@@ -4212,14 +4212,14 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-DT0Ickm6.js",
+    "file": "assets/cp-CkGI5asu.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_vue.esm-bundler-CI7ZVqjc.js",
       "_DynamicHtmlRenderer-DdHyMsXp.js",
-      "_cp-Dk3apxOZ.js",
+      "_cp-uk2d95Xl.js",
       "_FormRenderer-Cbwo26Qh.js",
       "_LayoutSlot-CQnybruY.js"
     ]
