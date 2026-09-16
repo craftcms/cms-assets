@@ -1,0 +1,1 @@
+import{qn as e}from"./vue.esm-bundler-6ql8m0cP.js";function t(){let t=e([]);return{get tabs(){return t},register(e){let n=t.find(t=>t.id===e.id);if(n!==void 0&&n!==e)throw Error(`Element details tab already registered: ${e.id}`);n===void 0&&t.push(e)},hasVisible(e){return t.some(t=>t.visible?.(e)??!0)}}}var n=t();export{n as t};
