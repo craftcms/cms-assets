@@ -1,1 +1,0 @@
-import{G as e,Vt as t,Zt as n,nr as r,nt as i}from"./vue.esm-bundler-6ql8m0cP.js";import{s as a}from"./screen-BLZmqI45.js";import{n as o,t as s}from"./ElementEditScreen-D7-sYEbV.js";var c=i({layout:[],__name:`Edit`,props:{userId:{},redirectUrl:{}},setup(i){let c=i,l=a()?o:s,u=()=>({userId:c.userId});return(i,a)=>(t(),e(n(r(l)),{"save-data":u}))}});export{c as default};
