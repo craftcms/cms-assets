@@ -25,6 +25,7 @@ import{S as e,l as t}from"./nav-item-PE_0Q8tE-A6oeOABY.js";import{c as n,f as r,
     craft-popover::part(popup) {
       width: min(26rem, calc(100vw - 2rem));
       max-width: none;
+      max-height: none;
       overflow: hidden;
     }
 
