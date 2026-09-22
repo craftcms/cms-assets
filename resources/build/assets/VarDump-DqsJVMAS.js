@@ -1,0 +1,1 @@
+import{Vt as e,cr as t,ft as n,nt as r,or as i,q as a}from"./vue.esm-bundler-6ql8m0cP.js";import{t as o}from"./_plugin-vue_export-helper-BDNMzG2s.js";var s=o(r({__name:`VarDump`,props:{data:{}},setup(r){return(o,s)=>(e(),a(`pre`,i(n(o.$attrs)),t(JSON.stringify(r.data,null,2)),17))}}),[[`__scopeId`,`data-v-9d6b32cd`]]);export{s as t};

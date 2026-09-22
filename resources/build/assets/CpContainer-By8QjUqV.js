@@ -1,0 +1,1 @@
+import{Jt as e,Vt as t,q as n}from"./vue.esm-bundler-6ql8m0cP.js";import{t as r}from"./_plugin-vue_export-helper-BDNMzG2s.js";var i={},a={class:`cp-container`};function o(r,i){return t(),n(`div`,a,[e(r.$slots,`default`,{},void 0,!0),e(r.$slots,`full`,{class:`cp-container__full`},void 0,!0)])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-9ccad49e`]]);export{s as t};

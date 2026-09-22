@@ -1,1 +1,0 @@
-import{a as e,i as t,s as n}from"./useSlideout-BIA7DD8-.js";import"./AppLayout-C8Cd6vV9.js";function r(){let r=window.Craft;r&&Object.assign(r,{openSlideout:n,closeSlideout:e,closeAllSlideouts:t})}export{r as t};
