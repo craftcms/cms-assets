@@ -893,8 +893,8 @@
       "_vue.esm-bundler-6ql8m0cP.js"
     ]
   },
-  "_cp-DZnjSV_s.js": {
-    "file": "assets/cp-DZnjSV_s.js",
+  "_cp-45wixkO5.js": {
+    "file": "assets/cp-45wixkO5.js",
     "name": "cp",
     "imports": [
       "_nav-item-PE_0Q8tE-A6oeOABY.js",
@@ -906,7 +906,7 @@
       "_AppLayout-_gvbNXwF.js",
       "_useAnnouncer-CCNEF9F8.js",
       "_slideouts-pj5f4MWE.js",
-      "_cp-app-W-2JkEGr.js",
+      "_cp-app-BjDQgbje.js",
       "_components-Ct3czvHi.js",
       "_element-details-tabs-Csdh5OXS.js"
     ]
@@ -1015,12 +1015,8 @@
       "node_modules/.pnpm/@lion+ui@0.16.1/node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
-  "_cp-app-DK88IAiA.css": {
-    "file": "assets/cp-app-DK88IAiA.css",
-    "src": "_cp-app-DK88IAiA.css"
-  },
-  "_cp-app-W-2JkEGr.js": {
-    "file": "assets/cp-app-W-2JkEGr.js",
+  "_cp-app-BjDQgbje.js": {
+    "file": "assets/cp-app-BjDQgbje.js",
     "name": "cp-app",
     "imports": [
       "_nav-item-PE_0Q8tE-A6oeOABY.js",
@@ -1091,6 +1087,10 @@
     "css": [
       "assets/cp-app-DK88IAiA.css"
     ]
+  },
+  "_cp-app-DK88IAiA.css": {
+    "file": "assets/cp-app-DK88IAiA.css",
+    "src": "_cp-app-DK88IAiA.css"
   },
   "_cp-global-sidebar-Czzud3Yp.js": {
     "file": "assets/cp-global-sidebar-Czzud3Yp.js",
@@ -1623,8 +1623,8 @@
     "file": "assets/tr-BoMERIKA.js",
     "name": "tr"
   },
-  "_ui-CERzXorC.js": {
-    "file": "assets/ui-CERzXorC.js",
+  "_ui-D6yb2CRI.js": {
+    "file": "assets/ui-D6yb2CRI.js",
     "name": "ui",
     "imports": [
       "_nav-item-PE_0Q8tE-A6oeOABY.js",
@@ -1640,7 +1640,7 @@
       "_craft-global-D42SH_IP.js",
       "_slideouts-pj5f4MWE.js",
       "_queue-ByPsSlll.js",
-      "_cp-app-W-2JkEGr.js",
+      "_cp-app-BjDQgbje.js",
       "_dom-CPLG2PvU.js",
       "_FormRenderer-yE6zdyC_.js",
       "_ElementThumbs-BqJQrr4h.js",
@@ -3127,12 +3127,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-BHwhTivO.js",
+    "file": "assets/cp-Cg7IQrdn.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-DZnjSV_s.js"
+      "_cp-45wixkO5.js"
     ]
   },
   "resources/js/common/components/CpLink.vue": {
@@ -3156,20 +3156,20 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-DqckJzXr.js",
+    "file": "assets/cp-8RsETUmU.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-ZhUGJoLv.js",
       "_cp-global-sidebar-Czzud3Yp.js",
-      "_ui-CERzXorC.js",
+      "_ui-D6yb2CRI.js",
       "_useSlideout-C20F6E-d.js",
       "_src-eqlj5miF-BnbqNiQQ.js",
       "_craft-global-D42SH_IP.js",
       "_slideouts-pj5f4MWE.js",
-      "_cp-DZnjSV_s.js",
-      "_cp-app-W-2JkEGr.js",
+      "_cp-45wixkO5.js",
+      "_cp-app-BjDQgbje.js",
       "_useElementActionMenu-kx952m7X.js",
       "_defineElement-BSeU7AAU.js",
       "_cp-queue-indicator-DtXJ3RNN.js",
@@ -3178,17 +3178,17 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-Dnh1VTBc.js",
+    "file": "assets/legacy-CT-PjEEc.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_nav-item-PE_0Q8tE-A6oeOABY.js",
       "_cp-ZhUGJoLv.js",
-      "_ui-CERzXorC.js",
+      "_ui-D6yb2CRI.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_login-form-C0GGkXVf.js",
-      "_cp-app-W-2JkEGr.js",
+      "_cp-app-BjDQgbje.js",
       "_FormRenderer-yE6zdyC_.js",
       "_useElementActionMenu-kx952m7X.js",
       "_elevated-session-C36VMklA.js",
@@ -3196,7 +3196,7 @@
       "_verify-email-form-Bqw8u9vb.js"
     ],
     "dynamicImports": [
-      "_cp-DZnjSV_s.js",
+      "_cp-45wixkO5.js",
       "_nav-list.ts-DPwcLr0r.js",
       "packages/craftcms-ui/dist/components/nav-item/nav-item.ts.mjs",
       "_cp-global-sidebar-Czzud3Yp.js",
@@ -4457,14 +4457,14 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-DtBxi475.js",
+    "file": "assets/cp-DyO9f7_S.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_vue.esm-bundler-6ql8m0cP.js",
       "_DynamicHtmlRenderer-CbhE9zOa.js",
-      "_cp-DZnjSV_s.js",
+      "_cp-45wixkO5.js",
       "_FormRenderer-yE6zdyC_.js",
       "_LayoutSlot-DvavHnTO.js"
     ]
