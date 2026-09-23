@@ -1,0 +1,1 @@
+import{o as e}from"./dist-B_cEqvZH.js";import{_n as t}from"./vue.esm-bundler-6ql8m0cP.js";import{p as n}from"./screen-BO1R2uyq.js";function r(r){let i=r instanceof Function?r:()=>r,a=n(),o=a?e=>a.set(e):t=>e(t);t(()=>o(i()))}export{r as t};
