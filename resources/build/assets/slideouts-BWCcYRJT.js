@@ -1,0 +1,1 @@
+import{d as e,p as t,u as n}from"./panel-stack-BXVP7OSz.js";import"./AppLayout-BAE7uWsq.js";function r(){let r=window.Craft;r&&Object.assign(r,{openSlideout:t,closeSlideout:e,closeAllSlideouts:n})}export{r as t};
