@@ -1,1 +1,0 @@
-import{t as e}from"./craft-global-DtUUO1sU.js";import{n as t,r as n,t as r}from"./upload-client-CwpaKqDv.js";e({Uploads:{FileUpload:r,UploadError:n,registerTransport:t}});
