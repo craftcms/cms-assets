@@ -1008,25 +1008,6 @@
       "_vue.esm-bundler-6ql8m0cP.js"
     ]
   },
-  "_cp-Bu5rK5pb.js": {
-    "file": "assets/cp-Bu5rK5pb.js",
-    "name": "cp",
-    "imports": [
-      "_nav-item-WyjrcCrG-rCmUYApD.js",
-      "_cp-DO4vqmD5.js",
-      "_http.ts-D9Ej98ls.js",
-      "_dist-B_cEqvZH.js",
-      "_wayfinder-Byp9MxZi.js",
-      "_messages-C2gAMxsU.js",
-      "_AppLayout-qcYjBzmn.js",
-      "_useAnnouncer-CCNEF9F8.js",
-      "_messages-CoYwDE-x.js",
-      "_slideouts-Cfi4aUne.js",
-      "_cp-app-iu4jkluW.js",
-      "_components-Ct3czvHi.js",
-      "_WorkflowDraftReviews-CVD-7TsX.js"
-    ]
-  },
   "_cp-DO4vqmD5.js": {
     "file": "assets/cp-DO4vqmD5.js",
     "name": "cp",
@@ -1131,12 +1112,31 @@
       "node_modules/.pnpm/@lion+ui@0.16.1/node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
+  "_cp-Ojy0z5QI.js": {
+    "file": "assets/cp-Ojy0z5QI.js",
+    "name": "cp",
+    "imports": [
+      "_nav-item-WyjrcCrG-rCmUYApD.js",
+      "_cp-DO4vqmD5.js",
+      "_http.ts-D9Ej98ls.js",
+      "_dist-B_cEqvZH.js",
+      "_wayfinder-Byp9MxZi.js",
+      "_messages-C2gAMxsU.js",
+      "_AppLayout-qcYjBzmn.js",
+      "_useAnnouncer-CCNEF9F8.js",
+      "_messages-CoYwDE-x.js",
+      "_slideouts-Cfi4aUne.js",
+      "_cp-app-D__Y3tQH.js",
+      "_components-Ct3czvHi.js",
+      "_WorkflowDraftReviews-CVD-7TsX.js"
+    ]
+  },
   "_cp-app-CQsCeMNS.css": {
     "file": "assets/cp-app-CQsCeMNS.css",
     "src": "_cp-app-CQsCeMNS.css"
   },
-  "_cp-app-iu4jkluW.js": {
-    "file": "assets/cp-app-iu4jkluW.js",
+  "_cp-app-D__Y3tQH.js": {
+    "file": "assets/cp-app-D__Y3tQH.js",
     "name": "cp-app",
     "imports": [
       "_nav-item-WyjrcCrG-rCmUYApD.js",
@@ -1873,8 +1873,8 @@
     "file": "assets/tr-BoMERIKA.js",
     "name": "tr"
   },
-  "_ui-f1BzizYv.js": {
-    "file": "assets/ui-f1BzizYv.js",
+  "_ui-DYwNaxTK.js": {
+    "file": "assets/ui-DYwNaxTK.js",
     "name": "ui",
     "imports": [
       "_nav-item-WyjrcCrG-rCmUYApD.js",
@@ -1889,7 +1889,7 @@
       "_craft-global-DtUUO1sU.js",
       "_slideouts-Cfi4aUne.js",
       "_queue-S_qdmn0Y.js",
-      "_cp-app-iu4jkluW.js",
+      "_cp-app-D__Y3tQH.js",
       "_FormRenderer-VzaWgXUo.js",
       "_useElementIndexVisits-BKZDokhm.js",
       "_create-element-selector-modal-DISo0_ZU.js",
@@ -3325,12 +3325,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-BlkLp1UG.js",
+    "file": "assets/cp-E0vQbci8.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-Bu5rK5pb.js"
+      "_cp-Ojy0z5QI.js"
     ]
   },
   "resources/js/common/components/CpLink.vue": {
@@ -3354,7 +3354,7 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-CPxXKBtf.js",
+    "file": "assets/cp-B9jUiaC0.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
@@ -3362,13 +3362,13 @@
       "_nav-item-WyjrcCrG-rCmUYApD.js",
       "_cp-DO4vqmD5.js",
       "_cp-global-sidebar-sCEcXohB.js",
-      "_ui-f1BzizYv.js",
+      "_ui-DYwNaxTK.js",
       "_messages-C2gAMxsU.js",
       "_src-NKenXOXl-BNaoVfJg.js",
       "_craft-global-DtUUO1sU.js",
       "_slideouts-Cfi4aUne.js",
-      "_cp-Bu5rK5pb.js",
-      "_cp-app-iu4jkluW.js",
+      "_cp-Ojy0z5QI.js",
+      "_cp-app-D__Y3tQH.js",
       "_WorkflowDraftReviews-CVD-7TsX.js",
       "_NestedElements-Ca1thGY-.js",
       "_defineElement-BSeU7AAU.js",
@@ -3384,18 +3384,18 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-WDiOlZmn.js",
+    "file": "assets/legacy-QE4EhFPP.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_nav-item-WyjrcCrG-rCmUYApD.js",
       "_cp-DO4vqmD5.js",
-      "_ui-f1BzizYv.js",
+      "_ui-DYwNaxTK.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_messages-C2gAMxsU.js",
       "_login-form-DDvKqw3f.js",
-      "_cp-app-iu4jkluW.js",
+      "_cp-app-D__Y3tQH.js",
       "_WorkflowDraftReviews-CVD-7TsX.js",
       "_FormRenderer-VzaWgXUo.js",
       "_elevated-session-DHPWAtfx.js",
@@ -3403,7 +3403,7 @@
       "_verify-email-form-DTF4I9Z8.js"
     ],
     "dynamicImports": [
-      "_cp-Bu5rK5pb.js",
+      "_cp-Ojy0z5QI.js",
       "_nav-list.ts-DPwcLr0r.js",
       "packages/craftcms-ui/dist/components/nav-item/nav-item.ts.mjs",
       "_cp-global-sidebar-sCEcXohB.js",
@@ -4720,14 +4720,14 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-Cu6k0jp6.js",
+    "file": "assets/cp-BZfhcpb5.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_vue.esm-bundler-6ql8m0cP.js",
       "_DynamicHtmlRenderer-CbhE9zOa.js",
-      "_cp-Bu5rK5pb.js",
+      "_cp-Ojy0z5QI.js",
       "_FormRenderer-VzaWgXUo.js",
       "_LayoutSlot-DvavHnTO.js"
     ]
