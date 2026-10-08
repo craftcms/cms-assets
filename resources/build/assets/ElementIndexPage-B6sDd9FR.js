@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-Cof5UDvx.js";export{e as default};
