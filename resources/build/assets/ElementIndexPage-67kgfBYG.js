@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-tMgVNnNd.js";export{e as default};
