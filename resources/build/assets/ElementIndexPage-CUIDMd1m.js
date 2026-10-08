@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-DXBPy_Rd.js";export{e as default};
