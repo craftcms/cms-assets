@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-DE5ZQSl2.js";export{e as default};
