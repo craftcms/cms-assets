@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-DKfSQzrc.js";export{e as default};

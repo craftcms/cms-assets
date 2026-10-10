@@ -1,0 +1,1 @@
+import{Yn as e}from"./vue.esm-bundler-6ql8m0cP.js";import{h as t,t as n}from"./dist-UJMrrs8D.js";function r(e){return`Craft-${Craft.systemUid}.${e}`}function i(e,n,i=localStorage,a){return t(r(e),n,i,a)}function a(e,t,n){return i(e,t,localStorage,n)}function o(t,r){return t?a(t,r,{writeDefaults:!1,...typeof r==`object`?{serializer:n.object}:{}}):e(r)}export{o as n,a as t};
