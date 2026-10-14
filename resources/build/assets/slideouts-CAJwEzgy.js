@@ -1,1 +1,0 @@
-import{l as e,o as t,s as n}from"./messages-D0-vLlgL.js";import"./AppLayout-Cdxok-1Q.js";function r(){return window.Craft?.openSlideout instanceof Function}function i(){let r=window.Craft;r&&Object.assign(r,{openSlideout:e,closeSlideout:n,closeAllSlideouts:t})}export{i as n,r as t};
