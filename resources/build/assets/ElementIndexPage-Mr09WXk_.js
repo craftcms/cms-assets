@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BiLnX8hD.js";export{e as default};
