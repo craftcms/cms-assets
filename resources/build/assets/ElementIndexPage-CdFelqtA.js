@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-DFMg5z4l.js";export{e as default};
