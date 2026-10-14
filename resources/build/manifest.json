@@ -1045,25 +1045,6 @@
       "_vue.esm-bundler-6ql8m0cP.js"
     ]
   },
-  "_cp-BNkdnoX9.js": {
-    "file": "assets/cp-BNkdnoX9.js",
-    "name": "cp",
-    "imports": [
-      "_cp-DZYNXF6E.js",
-      "_http.ts-D9Ej98ls.js",
-      "_translate.ts-ATMxJhjV.js",
-      "_dist-B_cEqvZH.js",
-      "_wayfinder-Byp9MxZi.js",
-      "_messages-DWmlcdCJ.js",
-      "_AppLayout-MkGdShm_.js",
-      "_useAnnouncer-CCNEF9F8.js",
-      "_messages-BUFpXgsg.js",
-      "_slideouts-DWNi6UKa.js",
-      "_cp-app-nGrH5MgU.js",
-      "_components-Ct3czvHi.js",
-      "_WorkflowDraftReviews-D9e72kaW.js"
-    ]
-  },
   "_cp-DZYNXF6E.js": {
     "file": "assets/cp-DZYNXF6E.js",
     "name": "cp",
@@ -1165,12 +1146,27 @@
       "node_modules/.pnpm/@lion+ui@0.16.1/node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
-  "_cp-app-DS8iHp6B.css": {
-    "file": "assets/cp-app-DS8iHp6B.css",
-    "src": "_cp-app-DS8iHp6B.css"
+  "_cp-_-1X-Kw7.js": {
+    "file": "assets/cp-_-1X-Kw7.js",
+    "name": "cp",
+    "imports": [
+      "_cp-DZYNXF6E.js",
+      "_http.ts-D9Ej98ls.js",
+      "_translate.ts-ATMxJhjV.js",
+      "_dist-B_cEqvZH.js",
+      "_wayfinder-Byp9MxZi.js",
+      "_messages-DWmlcdCJ.js",
+      "_AppLayout-MkGdShm_.js",
+      "_useAnnouncer-CCNEF9F8.js",
+      "_messages-BUFpXgsg.js",
+      "_slideouts-DWNi6UKa.js",
+      "_cp-app-4_9WOrcY.js",
+      "_components-Ct3czvHi.js",
+      "_WorkflowDraftReviews-D9e72kaW.js"
+    ]
   },
-  "_cp-app-nGrH5MgU.js": {
-    "file": "assets/cp-app-nGrH5MgU.js",
+  "_cp-app-4_9WOrcY.js": {
+    "file": "assets/cp-app-4_9WOrcY.js",
     "name": "cp-app",
     "imports": [
       "_cp-DZYNXF6E.js",
@@ -1251,6 +1247,10 @@
     "css": [
       "assets/cp-app-DS8iHp6B.css"
     ]
+  },
+  "_cp-app-DS8iHp6B.css": {
+    "file": "assets/cp-app-DS8iHp6B.css",
+    "src": "_cp-app-DS8iHp6B.css"
   },
   "_cp-global-sidebar-De3Z7kOH.js": {
     "file": "assets/cp-global-sidebar-De3Z7kOH.js",
@@ -1883,8 +1883,8 @@
     "file": "assets/ui-CPJrWWAa.css",
     "src": "_ui-CPJrWWAa.css"
   },
-  "_ui-tjQQhhRt.js": {
-    "file": "assets/ui-tjQQhhRt.js",
+  "_ui-DnpL0f6E.js": {
+    "file": "assets/ui-DnpL0f6E.js",
     "name": "ui",
     "imports": [
       "_decorators-BPqkjGyG.js",
@@ -1902,7 +1902,7 @@
       "_craft-global-Cyya3ddA.js",
       "_slideouts-DWNi6UKa.js",
       "_queue-S_qdmn0Y.js",
-      "_cp-app-nGrH5MgU.js",
+      "_cp-app-4_9WOrcY.js",
       "_dom-D2Y-bPah.js",
       "_CraftInput-D0fi0VbG.js",
       "_markdown-field-CNVM1bLN.js",
@@ -3246,7 +3246,7 @@
     "src": "packages/craftcms-legacy/cp/src/images/hudtip_top_2x.png"
   },
   "resources/css/cp.css": {
-    "file": "assets/cp-ON7kAyIF.css",
+    "file": "assets/cp-CneNETsK.css",
     "name": "cp",
     "names": [
       "cp.css"
@@ -3264,12 +3264,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-DI3n-48t.js",
+    "file": "assets/cp-DXrVQT-w.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-BNkdnoX9.js"
+      "_cp-_-1X-Kw7.js"
     ]
   },
   "resources/js/common/components/ActionMenu.vue": {
@@ -3336,21 +3336,21 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-BkFmWSXB.js",
+    "file": "assets/cp-P-wOlKZq.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-DZYNXF6E.js",
       "_cp-global-sidebar-De3Z7kOH.js",
-      "_ui-tjQQhhRt.js",
+      "_ui-DnpL0f6E.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_messages-DWmlcdCJ.js",
       "_runtime-DeMaduTR.js",
       "_src-NKenXOXl-CSUNLuu3.js",
       "_craft-global-Cyya3ddA.js",
       "_slideouts-DWNi6UKa.js",
-      "_cp-BNkdnoX9.js",
+      "_cp-_-1X-Kw7.js",
       "_AdminTable-BBCUsqwd.js",
       "_types-C3CvN2GD.js",
       "_createCraftColumnHelper-CGNww_Tl.js",
@@ -3370,13 +3370,13 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-DGc7oNj9.js",
+    "file": "assets/legacy-DP4Z23dE.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_cp-DZYNXF6E.js",
-      "_ui-tjQQhhRt.js",
+      "_ui-DnpL0f6E.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_messages-DWmlcdCJ.js",
       "_login-form-Cq6iMd8Z.js",
@@ -3387,7 +3387,7 @@
       "_verify-email-form-B4BPGS2C.js"
     ],
     "dynamicImports": [
-      "_cp-BNkdnoX9.js",
+      "_cp-_-1X-Kw7.js",
       "_cp-global-sidebar-De3Z7kOH.js",
       "_cp-queue-indicator-BSwGygv4.js",
       "_cp-notification-center-DJLwGQ48.js",
@@ -4537,7 +4537,7 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-1MFQL94D.js",
+    "file": "assets/cp-Bqghs6uY.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
@@ -4545,7 +4545,7 @@
       "_vue.esm-bundler-6ql8m0cP.js",
       "_DynamicHtmlRenderer-CbhE9zOa.js",
       "_CpContainer-D04yybcH.js",
-      "_cp-BNkdnoX9.js",
+      "_cp-_-1X-Kw7.js",
       "_useSelectable-eGDtunaI.js",
       "_UiRenderer-CSXJ4VMG.js",
       "_ActivityTimelineActor-bhmRdKn6.js",
