@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-DUTAkR26.js";export{e as default};
