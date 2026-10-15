@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-YF-DPsC8.js";export{e as default};
