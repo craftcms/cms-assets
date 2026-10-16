@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BKf4ep_o.js";export{e as default};
