@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-BeP23aKq.js";export{e as default};
