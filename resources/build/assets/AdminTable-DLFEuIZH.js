@@ -1,1 +1,0 @@
-import{t as e}from"./AdminTable-DASAI-IR.js";export{e as default};
