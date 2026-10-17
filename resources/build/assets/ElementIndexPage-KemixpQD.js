@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CrLyMQW4.js";export{e as default};
