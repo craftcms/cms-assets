@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-DgC746E3.js";export{e as default};
