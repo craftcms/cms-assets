@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-ColZ1wGP.js";export{e as default};
