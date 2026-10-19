@@ -1,1 +1,0 @@
-import{c as e,d as t,l as n}from"./ElevatedSessionHost-XW4Lk40Z.js";import"./AppLayout-C31HbmfD.js";function r(){let r=window.Craft;r&&Object.assign(r,{openSlideout:t,closeSlideout:n,closeAllSlideouts:e})}export{r as t};
