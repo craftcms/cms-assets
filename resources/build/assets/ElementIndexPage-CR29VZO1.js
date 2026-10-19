@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CzcnAlD3.js";export{e as default};
