@@ -1110,8 +1110,8 @@
       "_vue.esm-bundler-6ql8m0cP.js"
     ]
   },
-  "_cp-DDMq5EWa.js": {
-    "file": "assets/cp-DDMq5EWa.js",
+  "_cp-CdeC1JCx.js": {
+    "file": "assets/cp-CdeC1JCx.js",
     "name": "cp",
     "imports": [
       "_cp-DQBsIOhA.js",
@@ -1124,7 +1124,7 @@
       "_useAnnouncer-CCNEF9F8.js",
       "_messages-BVdBlj3n.js",
       "_slideouts-Ci5Anu5q.js",
-      "_cp-app-BvdGBG7h.js",
+      "_cp-app-DFLoe-7X.js",
       "_components-Ct3czvHi.js",
       "_releaseEditor-Dr_Q4d1N.js"
     ]
@@ -1230,8 +1230,12 @@
       "node_modules/.pnpm/@lion+ui@0.16.1/node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
-  "_cp-app-BvdGBG7h.js": {
-    "file": "assets/cp-app-BvdGBG7h.js",
+  "_cp-app-B0xzrLN2.css": {
+    "file": "assets/cp-app-B0xzrLN2.css",
+    "src": "_cp-app-B0xzrLN2.css"
+  },
+  "_cp-app-DFLoe-7X.js": {
+    "file": "assets/cp-app-DFLoe-7X.js",
     "name": "cp-app",
     "imports": [
       "_cp-DQBsIOhA.js",
@@ -1317,12 +1321,8 @@
       "resources/js/modules/workflows/components/WorkflowActivityTimelineEvent.vue"
     ],
     "css": [
-      "assets/cp-app-CQpU-qGq.css"
+      "assets/cp-app-B0xzrLN2.css"
     ]
-  },
-  "_cp-app-CQpU-qGq.css": {
-    "file": "assets/cp-app-CQpU-qGq.css",
-    "src": "_cp-app-CQpU-qGq.css"
   },
   "_cp-global-sidebar-DYUHmdqN.js": {
     "file": "assets/cp-global-sidebar-DYUHmdqN.js",
@@ -1929,8 +1929,8 @@
       "_components-Ct3czvHi.js"
     ]
   },
-  "_ui-DM9-8a7C.js": {
-    "file": "assets/ui-DM9-8a7C.js",
+  "_ui-IlDvH56u.js": {
+    "file": "assets/ui-IlDvH56u.js",
     "name": "ui",
     "imports": [
       "_decorators-lVTfPMaS.js",
@@ -1948,7 +1948,7 @@
       "_craft-global-BKOL1omu.js",
       "_slideouts-Ci5Anu5q.js",
       "_queue-S_qdmn0Y.js",
-      "_cp-app-BvdGBG7h.js",
+      "_cp-app-DFLoe-7X.js",
       "_dom-DbvcMh1u.js",
       "_CraftInput-DeSzPLr5.js",
       "_jquery-tc4g_oNo.js",
@@ -3286,12 +3286,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-DB38I4Qt.js",
+    "file": "assets/cp-C_3oFFuI.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-DDMq5EWa.js"
+      "_cp-CdeC1JCx.js"
     ]
   },
   "resources/js/common/components/ActionMenu.vue": {
@@ -3358,21 +3358,21 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-DOYdUbex.js",
+    "file": "assets/cp-AxKNgv2C.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-DQBsIOhA.js",
       "_cp-global-sidebar-DYUHmdqN.js",
-      "_ui-DM9-8a7C.js",
+      "_ui-IlDvH56u.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_ElevatedSessionHost-C-_mFgZj.js",
       "_runtime-GoBZtMXC.js",
       "_src-NKenXOXl-dWp84a_8.js",
       "_craft-global-BKOL1omu.js",
       "_slideouts-Ci5Anu5q.js",
-      "_cp-DDMq5EWa.js",
+      "_cp-CdeC1JCx.js",
       "_AdminTable-alEaSkTG.js",
       "_types-C3CvN2GD.js",
       "_createCraftColumnHelper-Bw2_kLkn.js",
@@ -3393,13 +3393,13 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-CBVp3k9L.js",
+    "file": "assets/legacy-pmVON_zQ.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_cp-DQBsIOhA.js",
-      "_ui-DM9-8a7C.js",
+      "_ui-IlDvH56u.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_ElevatedSessionHost-C-_mFgZj.js",
       "_login-form-Ddi4tJeX.js",
@@ -3410,7 +3410,7 @@
       "_verify-email-form-CGlfeR2W.js"
     ],
     "dynamicImports": [
-      "_cp-DDMq5EWa.js",
+      "_cp-CdeC1JCx.js",
       "_cp-global-sidebar-DYUHmdqN.js",
       "_cp-queue-indicator-DaKmxsw_.js",
       "_cp-notification-center-GhynlZuM.js",
@@ -4615,7 +4615,7 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-Beik9vJg.js",
+    "file": "assets/cp-DfX3Atsf.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
@@ -4623,7 +4623,7 @@
       "_vue.esm-bundler-6ql8m0cP.js",
       "_DynamicHtmlRenderer-CbhE9zOa.js",
       "_CpContainer-D04yybcH.js",
-      "_cp-DDMq5EWa.js",
+      "_cp-CdeC1JCx.js",
       "_useSelectable-CJXSq_vV.js",
       "_UiRenderer-CcXPJuDF.js",
       "_ActivityTimelineActor-Cp948wsD.js",
