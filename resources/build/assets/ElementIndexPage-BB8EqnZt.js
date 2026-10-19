@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-D_oKURP-.js";export{e as default};
