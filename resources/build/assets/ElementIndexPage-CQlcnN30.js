@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-bqsolu_D.js";export{e as default};

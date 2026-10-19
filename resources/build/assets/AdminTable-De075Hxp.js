@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-UUByBLQg.js";export{e as default};
