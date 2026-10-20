@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-DcmkyJef.js";export{e as default};
