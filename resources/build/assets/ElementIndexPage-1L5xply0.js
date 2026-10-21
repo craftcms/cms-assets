@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-Cd7pA_yX.js";export{e as default};

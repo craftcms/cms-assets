@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-i2LUabKo.js";export{e as default};
