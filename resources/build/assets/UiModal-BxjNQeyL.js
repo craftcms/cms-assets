@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-PkivnHam.js";export{e as default};
