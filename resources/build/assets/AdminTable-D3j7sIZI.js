@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BP_wd23N.js";export{e as default};
