@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-DpNeagnr.js";export{e as default};
