@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-B-B_RN8_.js";export{e as default};
