@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-DSxN3_TV.js";export{e as default};
