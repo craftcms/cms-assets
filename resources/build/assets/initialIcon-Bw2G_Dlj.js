@@ -1,1 +1,0 @@
-function e(e){let[t]=Array.from(e.trim());return t?t.toLocaleUpperCase():`?`}function t(t){let n=document.createElement(`span`);return n.className=`initial-icon`,n.setAttribute(`aria-hidden`,`true`),n.textContent=e(t),n}export{e as n,t};
