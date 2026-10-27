@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BayK-zk0.js";export{e as default};
