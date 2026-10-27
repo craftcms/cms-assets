@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-BFullALl.js";export{e as default};
