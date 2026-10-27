@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-C0MtGPRr.js";export{e as default};
