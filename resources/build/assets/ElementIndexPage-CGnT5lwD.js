@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-Cksc3_1V.js";export{e as default};
