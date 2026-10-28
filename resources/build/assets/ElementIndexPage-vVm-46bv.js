@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BRi20MXQ.js";export{e as default};

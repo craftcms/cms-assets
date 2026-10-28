@@ -1,1 +1,0 @@
-import{t as e}from"./AdminTable-DtxOVigw.js";export{e as default};

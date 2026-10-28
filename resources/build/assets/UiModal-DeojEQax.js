@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-BpSrm9S3.js";export{e as default};
