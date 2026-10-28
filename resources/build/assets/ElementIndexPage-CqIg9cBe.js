@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-B0loyVMs.js";export{e as default};
