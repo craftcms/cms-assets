@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-pkiXDQRx.js";export{e as default};
