@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-BZKRpEkm.js";export{e as default};
