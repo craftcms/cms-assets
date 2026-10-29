@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-BIAm_7s-.js";export{e as default};
