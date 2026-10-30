@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-dxBgWgM6.js";export{e as default};
