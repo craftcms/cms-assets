@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-C2KQ_OAR.js";export{e as default};
