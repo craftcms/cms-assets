@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-D-yVTHe7.js";export{e as default};
