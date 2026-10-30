@@ -1,1 +1,0 @@
-import{t as e}from"./AdminTable-BN-uC6lo.js";export{e as default};
