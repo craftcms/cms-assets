@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-DUPVp-iG.js";export{e as default};
