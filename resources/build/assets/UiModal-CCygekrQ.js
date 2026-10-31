@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-CgdAejyj.js";export{e as default};
