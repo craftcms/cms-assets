@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CMV4PjRM.js";export{e as default};
