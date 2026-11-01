@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-DPAjOuFK.js";export{e as default};
