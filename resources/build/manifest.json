@@ -1228,14 +1228,14 @@
       "_email-DL7Htkh-.js"
     ]
   },
-  "_cp-Cs9XbFiP.js": {
-    "file": "assets/cp-Cs9XbFiP.js",
+  "_cp-Cv6fdcFq.js": {
+    "file": "assets/cp-Cv6fdcFq.js",
     "name": "cp",
     "imports": [
       "_cp-D3jelPLU.js",
       "_http.ts-w7TDbLb6.js",
       "_translate.ts-C8WHLkly.js",
-      "_cp-app-Bh8m8PYI.js",
+      "_cp-app-ShFpe9L2.js",
       "_dist-DLpH304J.js",
       "_wayfinder-Byp9MxZi.js",
       "_ElevatedSessionHost-jZCyp-8A.js",
@@ -1350,8 +1350,12 @@
       "node_modules/.pnpm/@lion+ui@0.16.1/node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
-  "_cp-app-Bh8m8PYI.js": {
-    "file": "assets/cp-app-Bh8m8PYI.js",
+  "_cp-app-CKoh1vW2.css": {
+    "file": "assets/cp-app-CKoh1vW2.css",
+    "src": "_cp-app-CKoh1vW2.css"
+  },
+  "_cp-app-ShFpe9L2.js": {
+    "file": "assets/cp-app-ShFpe9L2.js",
     "name": "cp-app",
     "imports": [
       "_cp-D3jelPLU.js",
@@ -1452,12 +1456,8 @@
       "resources/js/modules/workflows/components/WorkflowActivityTimelineEvent.vue"
     ],
     "css": [
-      "assets/cp-app-FpftVh1q.css"
+      "assets/cp-app-CKoh1vW2.css"
     ]
-  },
-  "_cp-app-FpftVh1q.css": {
-    "file": "assets/cp-app-FpftVh1q.css",
-    "src": "_cp-app-FpftVh1q.css"
   },
   "_cp-global-sidebar-C4orCnN3.js": {
     "file": "assets/cp-global-sidebar-C4orCnN3.js",
@@ -2162,8 +2162,8 @@
     "file": "assets/types-DPuVS46J.js",
     "name": "types"
   },
-  "_ui-DQ-blo2U.js": {
-    "file": "assets/ui-DQ-blo2U.js",
+  "_ui-CXkIhund.js": {
+    "file": "assets/ui-CXkIhund.js",
     "name": "ui",
     "imports": [
       "_decorators-lVTfPMaS.js",
@@ -2171,7 +2171,7 @@
       "_http.ts-w7TDbLb6.js",
       "_apiClient.ts-Dq8Yqgjg.js",
       "_translate.ts-C8WHLkly.js",
-      "_cp-app-Bh8m8PYI.js",
+      "_cp-app-ShFpe9L2.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_wayfinder-Byp9MxZi.js",
       "_ElevatedSessionHost-jZCyp-8A.js",
@@ -3600,12 +3600,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-h3F7nuSx.js",
+    "file": "assets/cp-C4mcoywJ.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-Cs9XbFiP.js"
+      "_cp-Cv6fdcFq.js"
     ]
   },
   "resources/js/common/components/ActionMenu.vue": {
@@ -3673,16 +3673,16 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-BsVN_ckC.js",
+    "file": "assets/cp-CZTJ76YC.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-global-sidebar-C4orCnN3.js",
       "_cp-D3jelPLU.js",
-      "_ui-DQ-blo2U.js",
+      "_ui-CXkIhund.js",
       "_vue.esm-bundler-6ql8m0cP.js",
-      "_cp-Cs9XbFiP.js",
+      "_cp-Cv6fdcFq.js",
       "_ElevatedSessionHost-jZCyp-8A.js",
       "_AppLayout-DDAk3GC1.js",
       "_runtime-h66ZRoHe.js",
@@ -3711,14 +3711,14 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-BYVyUOSe.js",
+    "file": "assets/legacy-CvtRlUu_.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_cp-D3jelPLU.js",
-      "_cp-app-Bh8m8PYI.js",
-      "_ui-DQ-blo2U.js",
+      "_cp-app-ShFpe9L2.js",
+      "_ui-CXkIhund.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_ElevatedSessionHost-jZCyp-8A.js",
       "_login-form-uW_H6I1V.js",
@@ -3729,7 +3729,7 @@
       "_verify-email-form-B7-XPIE6.js"
     ],
     "dynamicImports": [
-      "_cp-Cs9XbFiP.js",
+      "_cp-Cv6fdcFq.js",
       "_cp-global-sidebar-C4orCnN3.js",
       "_cp-queue-indicator-CQFmGesf.js",
       "_cp-notification-center-Dy3ie7NC.js",
@@ -5126,13 +5126,13 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-CsuNBGwE.js",
+    "file": "assets/cp-Dj7Ik0E9.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_vue.esm-bundler-6ql8m0cP.js",
-      "_cp-Cs9XbFiP.js",
+      "_cp-Cv6fdcFq.js",
       "_DynamicHtmlRenderer-CyZJTd6d.js",
       "_CpContainer-D04yybcH.js",
       "_useSelectable-Covjq1fk.js",
