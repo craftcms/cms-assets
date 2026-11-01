@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-ka41MePj.js";export{e as default};
