@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-DjvTF4Wx.js";export{e as default};
