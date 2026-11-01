@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-ChgRnluU.js";export{e as default};
