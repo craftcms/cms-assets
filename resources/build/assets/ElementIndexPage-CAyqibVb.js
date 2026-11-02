@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BZSWPm8a.js";export{e as default};
