@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-OH4SpuYo.js";export{e as default};

@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BEUCMVPo.js";export{e as default};
