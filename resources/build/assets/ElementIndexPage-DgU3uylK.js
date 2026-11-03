@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CTD1Kntj.js";export{e as default};
