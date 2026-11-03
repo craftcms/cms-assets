@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BwgAbGWy.js";export{e as default};
