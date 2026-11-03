@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-D4wI_D07.js";export{e as default};

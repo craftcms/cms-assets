@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-DWCxNAFM.js";export{e as default};
