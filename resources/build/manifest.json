@@ -1472,8 +1472,31 @@
       "node_modules/.pnpm/@lion+ui@0.16.1/node_modules/@lion/ui/components/input-file/translations/zh.js"
     ]
   },
-  "_cp-app-DTq7timJ.js": {
-    "file": "assets/cp-app-DTq7timJ.js",
+  "_cp-D_xgQ4di.js": {
+    "file": "assets/cp-D_xgQ4di.js",
+    "name": "cp",
+    "imports": [
+      "_cp-CDQsCry4.js",
+      "_translate.ts-CvxvI-3D.js",
+      "_external-links.ts-C0AAFWCZ.js",
+      "_http.ts-w7TDbLb6.js",
+      "_cp-app-CaRYwA1b.js",
+      "_dist-DLpH304J.js",
+      "_wayfinder-Byp9MxZi.js",
+      "_ElevatedSessionHost-DhiwGADP.js",
+      "_AppLayout-CK12e8LK.js",
+      "_shortcuts-M4CJitlY.js",
+      "_useAnnouncer-CCNEF9F8.js",
+      "_messages-D9jr3fL3.js",
+      "_slideouts-EVIK4HoP.js",
+      "_components-Ct3czvHi.js",
+      "_ReleasePicker-QR6bn2qT.js",
+      "_UiRenderer-BffS4Jln.js",
+      "_element-context-B-JsjYDL.js"
+    ]
+  },
+  "_cp-app-CaRYwA1b.js": {
+    "file": "assets/cp-app-CaRYwA1b.js",
     "name": "cp-app",
     "imports": [
       "_cp-CDQsCry4.js",
@@ -1577,12 +1600,12 @@
       "resources/js/modules/workflows/components/WorkflowActivityTimelineEvent.vue"
     ],
     "css": [
-      "assets/cp-app-Dgo6-HTN.css"
+      "assets/cp-app-DWmI257H.css"
     ]
   },
-  "_cp-app-Dgo6-HTN.css": {
-    "file": "assets/cp-app-Dgo6-HTN.css",
-    "src": "_cp-app-Dgo6-HTN.css"
+  "_cp-app-DWmI257H.css": {
+    "file": "assets/cp-app-DWmI257H.css",
+    "src": "_cp-app-DWmI257H.css"
   },
   "_cp-global-sidebar-C4orCnN3.js": {
     "file": "assets/cp-global-sidebar-C4orCnN3.js",
@@ -1633,29 +1656,6 @@
       "_custom-element-Bov83m9_.js",
       "_decorate-B3KLIx2E.js",
       "_queue-D99PPcfQ.js"
-    ]
-  },
-  "_cp-rXDhUWON.js": {
-    "file": "assets/cp-rXDhUWON.js",
-    "name": "cp",
-    "imports": [
-      "_cp-CDQsCry4.js",
-      "_translate.ts-CvxvI-3D.js",
-      "_external-links.ts-C0AAFWCZ.js",
-      "_http.ts-w7TDbLb6.js",
-      "_cp-app-DTq7timJ.js",
-      "_dist-DLpH304J.js",
-      "_wayfinder-Byp9MxZi.js",
-      "_ElevatedSessionHost-DhiwGADP.js",
-      "_AppLayout-CK12e8LK.js",
-      "_shortcuts-M4CJitlY.js",
-      "_useAnnouncer-CCNEF9F8.js",
-      "_messages-D9jr3fL3.js",
-      "_slideouts-EVIK4HoP.js",
-      "_components-Ct3czvHi.js",
-      "_ReleasePicker-QR6bn2qT.js",
-      "_UiRenderer-BffS4Jln.js",
-      "_element-context-B-JsjYDL.js"
     ]
   },
   "_craft-global-DaS_hzAZ.js": {
@@ -2313,8 +2313,8 @@
       "_vue.esm-bundler-6ql8m0cP.js"
     ]
   },
-  "_ui-CvZyM11e.js": {
-    "file": "assets/ui-CvZyM11e.js",
+  "_ui-DK8obScJ.js": {
+    "file": "assets/ui-DK8obScJ.js",
     "name": "ui",
     "imports": [
       "_decorators-lVTfPMaS.js",
@@ -2322,7 +2322,7 @@
       "_translate.ts-CvxvI-3D.js",
       "_http.ts-w7TDbLb6.js",
       "_apiClient.ts-BjmRgpnr.js",
-      "_cp-app-DTq7timJ.js",
+      "_cp-app-CaRYwA1b.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_wayfinder-Byp9MxZi.js",
       "_ElevatedSessionHost-DhiwGADP.js",
@@ -3810,7 +3810,7 @@
     ]
   },
   "resources/css/cp.css": {
-    "file": "assets/cp-DADmGFXj.css",
+    "file": "assets/cp-CTzu7aO0.css",
     "name": "cp",
     "names": [
       "cp.css"
@@ -3828,12 +3828,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-BgsqACL_.js",
+    "file": "assets/cp-ABlNTwMf.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-rXDhUWON.js"
+      "_cp-D_xgQ4di.js"
     ]
   },
   "resources/js/common/components/ActionMenu.vue": {
@@ -3901,16 +3901,16 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-DzmUHr9U.js",
+    "file": "assets/cp-C_5ivs0j.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_cp-global-sidebar-C4orCnN3.js",
       "_cp-CDQsCry4.js",
-      "_ui-CvZyM11e.js",
+      "_ui-DK8obScJ.js",
       "_vue.esm-bundler-6ql8m0cP.js",
-      "_cp-rXDhUWON.js",
+      "_cp-D_xgQ4di.js",
       "_ElevatedSessionHost-DhiwGADP.js",
       "_AppLayout-CK12e8LK.js",
       "_runtime-Cm4Z5fG-.js",
@@ -3939,14 +3939,14 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-DT9aKM0C.js",
+    "file": "assets/legacy-BtzSKeb4.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
     "imports": [
       "_cp-CDQsCry4.js",
-      "_cp-app-DTq7timJ.js",
-      "_ui-CvZyM11e.js",
+      "_cp-app-CaRYwA1b.js",
+      "_ui-DK8obScJ.js",
       "_vue.esm-bundler-6ql8m0cP.js",
       "_ElevatedSessionHost-DhiwGADP.js",
       "_login-form-B0s1p69_.js",
@@ -3957,7 +3957,7 @@
       "_verify-email-form-nd55PntZ.js"
     ],
     "dynamicImports": [
-      "_cp-rXDhUWON.js",
+      "_cp-D_xgQ4di.js",
       "_cp-global-sidebar-C4orCnN3.js",
       "_cp-queue-indicator-CQFmGesf.js",
       "_cp-notification-center-P7w2jAdb.js",
@@ -5550,14 +5550,14 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-CPMD2Q5X.js",
+    "file": "assets/cp-BHaXCWBr.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_apiClient.ts-BjmRgpnr.js",
       "_vue.esm-bundler-6ql8m0cP.js",
-      "_cp-rXDhUWON.js",
+      "_cp-D_xgQ4di.js",
       "_DynamicHtmlRenderer-CyZJTd6d.js",
       "_CpContainer-D04yybcH.js",
       "_useSelectable-CM9ZOjNe.js",
