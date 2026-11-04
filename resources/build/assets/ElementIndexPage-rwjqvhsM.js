@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-ChpwisiT.js";export{e as default};
