@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CeZntS38.js";export{e as default};
