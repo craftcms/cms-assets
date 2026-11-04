@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-DcyrA-0B.js";export{e as default};
