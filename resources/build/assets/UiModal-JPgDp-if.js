@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-CLnby-Ci.js";export{e as default};
