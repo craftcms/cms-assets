@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CtOKx2ni.js";export{e as default};
