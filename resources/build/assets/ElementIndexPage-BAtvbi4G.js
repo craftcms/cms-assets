@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-D1OhKIT_.js";export{e as default};
