@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BPkl3_Cc.js";export{e as default};
