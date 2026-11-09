@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-DMiHK2bl.js";export{e as default};
