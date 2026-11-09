@@ -1,1 +1,0 @@
-import{t as e}from"./AdminTable-Cawk3RNn.js";export{e as default};

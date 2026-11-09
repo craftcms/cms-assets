@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-DBCZ-7uN.js";export{e as default};

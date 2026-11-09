@@ -1,0 +1,1 @@
+import{t as e}from"./craft-global-CQqRZL_Y.js";import{n as t}from"./open-asset-image-editor-rW1e3tMc.js";e({openAssetImageEditor:t});
