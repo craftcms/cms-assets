@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CXFWd_zS.js";export{e as default};
