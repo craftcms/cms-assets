@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-Rmu76pms.js";export{e as default};
