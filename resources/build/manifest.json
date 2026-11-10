@@ -3290,14 +3290,26 @@
       "_vue.esm-bundler-6ql8m0cP.js"
     ]
   },
+  "packages/craftcms-ui/dist/styles/fonts/InterVariable-Italic.woff2": {
+    "file": "assets/InterVariable-Italic-FCBEiFp6.woff2",
+    "src": "packages/craftcms-ui/dist/styles/fonts/InterVariable-Italic.woff2"
+  },
+  "packages/craftcms-ui/dist/styles/fonts/InterVariable.woff2": {
+    "file": "assets/InterVariable-DiVDrmQJ.woff2",
+    "src": "packages/craftcms-ui/dist/styles/fonts/InterVariable.woff2"
+  },
   "resources/css/cp.css": {
-    "file": "assets/cp-C9rOnpZ8.css",
+    "file": "assets/cp-Dp8HrpSR.css",
     "name": "cp",
     "names": [
       "cp.css"
     ],
     "src": "resources/css/cp.css",
-    "isEntry": true
+    "isEntry": true,
+    "assets": [
+      "assets/InterVariable-DiVDrmQJ.woff2",
+      "assets/InterVariable-Italic-FCBEiFp6.woff2"
+    ]
   },
   "resources/js/bootstrap/components.ts": {
     "file": "assets/components-Of8Me2EN.js",
