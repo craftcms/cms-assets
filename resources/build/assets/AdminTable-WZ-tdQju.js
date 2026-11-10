@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BdPFLkVT.js";export{e as default};
