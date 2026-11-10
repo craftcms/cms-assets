@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CSieoft9.js";export{e as default};
