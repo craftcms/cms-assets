@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BA5VnYg3.js";export{e as default};
