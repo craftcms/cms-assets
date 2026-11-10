@@ -1526,35 +1526,6 @@
       "_pane.ts-BPkEJCc7.js"
     ]
   },
-  "_cp-BJ80QTg-.js": {
-    "file": "assets/cp-BJ80QTg-.js",
-    "name": "cp",
-    "imports": [
-      "_translate.ts-CvxvI-3D.js",
-      "_cp-Dn7BZbGx.js",
-      "_external-links.ts-C0AAFWCZ.js",
-      "_Config.ts-CMTyoefP.js",
-      "_http.ts-BviJ__aV.js",
-      "_dist-DLpH304J.js",
-      "_wayfinder-Byp9MxZi.js",
-      "_ElevatedSessionHost-CODH9gwZ.js",
-      "_AppLayout-D_czQgPf.js",
-      "_shortcuts-M4CJitlY.js",
-      "_useAnnouncer-O3usRoy0.js",
-      "_messages-Dq7a7ZW2.js",
-      "_slideouts-BCAAUVQ8.js",
-      "_field-toggle-kxTr1e-X.js",
-      "_broadcast-BzFidTn7.js",
-      "_clipboard-blMmibrO.js",
-      "_element-instances-D9PP1wce.js",
-      "_UiRenderer-HQIAxM5o.js",
-      "_cp-app--J5vutk9.js",
-      "_elevated-session-CmmONjog.js",
-      "_components-Ct3czvHi.js",
-      "_ReleasePicker-B8JwJXG_.js",
-      "_element-presentations-C8Ic7kTo.js"
-    ]
-  },
   "_cp-CAwdoGCS.js": {
     "file": "assets/cp-CAwdoGCS.js",
     "name": "cp",
@@ -1696,6 +1667,35 @@
   "_cp-app-DaJ_1XGU.css": {
     "file": "assets/cp-app-DaJ_1XGU.css",
     "src": "_cp-app-DaJ_1XGU.css"
+  },
+  "_cp-bC_viJNM.js": {
+    "file": "assets/cp-bC_viJNM.js",
+    "name": "cp",
+    "imports": [
+      "_translate.ts-CvxvI-3D.js",
+      "_cp-Dn7BZbGx.js",
+      "_external-links.ts-C0AAFWCZ.js",
+      "_Config.ts-CMTyoefP.js",
+      "_http.ts-BviJ__aV.js",
+      "_dist-DLpH304J.js",
+      "_wayfinder-Byp9MxZi.js",
+      "_ElevatedSessionHost-CODH9gwZ.js",
+      "_AppLayout-D_czQgPf.js",
+      "_shortcuts-M4CJitlY.js",
+      "_useAnnouncer-O3usRoy0.js",
+      "_messages-Dq7a7ZW2.js",
+      "_slideouts-BCAAUVQ8.js",
+      "_field-toggle-kxTr1e-X.js",
+      "_broadcast-BzFidTn7.js",
+      "_clipboard-blMmibrO.js",
+      "_element-instances-D9PP1wce.js",
+      "_UiRenderer-HQIAxM5o.js",
+      "_cp-app--J5vutk9.js",
+      "_elevated-session-CmmONjog.js",
+      "_components-Ct3czvHi.js",
+      "_ReleasePicker-B8JwJXG_.js",
+      "_element-presentations-C8Ic7kTo.js"
+    ]
   },
   "_cp-global-sidebar-BiTuZ10x.js": {
     "file": "assets/cp-global-sidebar-BiTuZ10x.js",
@@ -3322,12 +3322,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-DGwuvObH.js",
+    "file": "assets/cp-jA4R32gx.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-BJ80QTg-.js"
+      "_cp-bC_viJNM.js"
     ]
   },
   "resources/js/common/components/ActionMenu.vue": {
@@ -3418,7 +3418,7 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-DuKHPIm8.js",
+    "file": "assets/cp-ZaRxZofj.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
@@ -3429,7 +3429,7 @@
       "_cp-Dn7BZbGx.js",
       "_apiClient.ts-Cq1CcJP0.js",
       "_vue.esm-bundler-6ql8m0cP.js",
-      "_cp-BJ80QTg-.js",
+      "_cp-bC_viJNM.js",
       "_ElevatedSessionHost-CODH9gwZ.js",
       "_dist-CT56k6Qi.js",
       "_AppLayout-D_czQgPf.js",
@@ -3472,7 +3472,7 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-C8XW_GuS.js",
+    "file": "assets/legacy-D6zGwawb.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
@@ -3500,7 +3500,7 @@
       "_verify-email-form-ByDFKx0U.js"
     ],
     "dynamicImports": [
-      "_cp-BJ80QTg-.js",
+      "_cp-bC_viJNM.js",
       "_cp-global-sidebar-BiTuZ10x.js",
       "_cp-queue-indicator-CPL9EaLD.js",
       "_cp-notification-center-RJPNYSIn.js",
@@ -5146,14 +5146,14 @@
     "src": "resources/public/images/install/site.png"
   },
   "workbench/resources/js/cp.ts": {
-    "file": "assets/cp-B6NCNi_X.js",
+    "file": "assets/cp-Cgarx0zv.js",
     "name": "cp",
     "src": "workbench/resources/js/cp.ts",
     "isEntry": true,
     "imports": [
       "_apiClient.ts-Cq1CcJP0.js",
       "_vue.esm-bundler-6ql8m0cP.js",
-      "_cp-BJ80QTg-.js",
+      "_cp-bC_viJNM.js",
       "_DynamicHtmlRenderer-CyZJTd6d.js",
       "_CpContainer-D04yybcH.js",
       "_UiRenderer-HQIAxM5o.js",
