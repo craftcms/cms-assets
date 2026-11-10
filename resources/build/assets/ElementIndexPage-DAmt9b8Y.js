@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-SUIkM-Wk.js";export{e as default};
