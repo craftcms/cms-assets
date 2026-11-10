@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CZP_FGoP.js";export{e as default};
