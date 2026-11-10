@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CDsctpW8.js";export{e as default};
