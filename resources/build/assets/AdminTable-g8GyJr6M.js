@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BFw-tBSx.js";export{e as default};
