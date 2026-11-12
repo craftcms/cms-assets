@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-CMGRJX1Y.js";export{e as default};
