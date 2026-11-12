@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-LF41PjVh.js";export{e as default};
