@@ -50,12 +50,12 @@ import{n as e}from"./translate.ts-CvxvI-3D.js";import{a as t,d as n,n as r,r as 
       <craft-popover placement="bottom-end" .distance=${8}>
         <craft-button
           slot="invoker"
+          id="notification-trigger"
           class="notification-trigger"
           type="button"
           size="small"
           variant="plain"
           icon
-          aria-label=${this.#n}
         >
           <span slot="prefix">
             <craft-icon
@@ -91,4 +91,8 @@ import{n as e}from"./translate.ts-CvxvI-3D.js";import{a as t,d as n,n as r,r as 
           ></cp-notification-list>
         </div>
       </craft-popover>
+      <!-- Labels the icon-only button, as the Search button's tooltip does. -->
+      <craft-tooltip for="notification-trigger" invoker-relation="label">
+        ${this.#n}
+      </craft-tooltip>
     `:t}};c([r({type:Array,attribute:!1})],p.prototype,`notifications`,null),c([s(`craft-popover`)],p.prototype,`popoverElement`,void 0),c([s(`.notification-heading`)],p.prototype,`headingElement`,void 0),p=c([o(`cp-notification-center`)],p);var m=p;export{m as t};
