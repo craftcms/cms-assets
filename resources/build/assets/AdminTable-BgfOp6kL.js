@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-Bji-Wxl1.js";export{e as default};
