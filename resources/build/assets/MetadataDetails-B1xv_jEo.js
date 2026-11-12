@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-BS_2-XSo.js";export{e as default};
