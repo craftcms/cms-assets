@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BKpttJrT.js";export{e as default};

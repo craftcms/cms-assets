@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-tqwVu-hB.js";export{e as default};
