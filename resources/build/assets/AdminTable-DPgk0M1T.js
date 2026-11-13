@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-FOGKRx-K.js";export{e as default};
