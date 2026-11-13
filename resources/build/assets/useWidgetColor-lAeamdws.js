@@ -1,0 +1,1 @@
+import{U as e,Ut as t,xt as n}from"./vue.esm-bundler-6ql8m0cP.js";var r=Symbol(`dashboard-widget-color`);function i(n){t(r,e(()=>n()??void 0))}function a(){return n(r,e(()=>`gray`))}export{a as n,i as t};

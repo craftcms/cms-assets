@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-CJdeH4CE.js";export{e as default};
