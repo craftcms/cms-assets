@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-CGss872P.js";export{e as default};
