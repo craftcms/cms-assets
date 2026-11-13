@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-DCppWcRi.js";export{e as default};

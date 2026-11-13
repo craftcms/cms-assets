@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BnbcYbFR.js";export{e as default};
