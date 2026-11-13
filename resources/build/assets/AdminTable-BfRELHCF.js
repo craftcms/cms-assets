@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CAC50zsU.js";export{e as default};
