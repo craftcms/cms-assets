@@ -1,1 +1,0 @@
-import{t as e}from"./AdminTableNode-BJK7JfVj.js";export{e as default};

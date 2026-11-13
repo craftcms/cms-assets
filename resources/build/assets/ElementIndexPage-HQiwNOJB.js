@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BxGhpIw6.js";export{e as default};
