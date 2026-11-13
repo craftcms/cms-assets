@@ -1,1 +1,0 @@
-import{t as e}from"./MetadataDetails-COMJXcb8.js";export{e as default};

@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-Cacbd8us.js";export{e as default};
