@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-BW_apXR5.js";export{e as default};
