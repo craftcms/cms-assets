@@ -1,0 +1,1 @@
+import{r as e}from"./actionClient-DlCWcHgA-BOe1VjYK.js";import"./actionClient.ts-DdP05m6K.js";var t=new Map;async function n(n){let r=t.get(n);r||(r=e.post(`app/icon-svg`,{icon:n}).then(({data:e})=>e.iconSvg),t.set(n,r),r.catch(()=>t.delete(n)));let i=document.createElement(`template`);return i.innerHTML=(await r).trim(),i.content.firstElementChild}export{n as t};

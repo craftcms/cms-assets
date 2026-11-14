@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-DHlQOlxE.js";export{e as default};

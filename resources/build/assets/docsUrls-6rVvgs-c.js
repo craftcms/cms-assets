@@ -1,0 +1,1 @@
+var e=`https://craftcms.com/docs/5.x/configure.html#control-panel-settings`;export{e as t};

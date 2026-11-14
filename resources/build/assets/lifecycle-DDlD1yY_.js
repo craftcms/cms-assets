@@ -1,0 +1,1 @@
+var e={booting:[],booted:[]},t={booting:!1,booted:!1};function n(n,r){if(t[n]){r();return}e[n].push(r)}function r(e){n(`booting`,e)}function i(e){n(`booted`,e)}function a(n){t[n]=!0;let r=e[n];e[n]=[],r.forEach(e=>e())}export{r as n,a as r,i as t};

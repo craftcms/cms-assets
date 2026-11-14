@@ -1,0 +1,1 @@
+import{t as e}from"./PlaceholderShape-C3AQgK34.js";export{e as default};
