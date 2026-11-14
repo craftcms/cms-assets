@@ -1,0 +1,1 @@
+import{t as e}from"./PaginationControls-NUQxOHLw.js";export{e as default};

@@ -1,1 +1,0 @@
-import{t as e}from"./uploader-tbw7mTEG.js";export{e as Uploader};

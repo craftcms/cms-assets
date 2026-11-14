@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-C8RdJrPj.js";export{e as default};
