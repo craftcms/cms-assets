@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-Dopf3Aa3.js";export{e as default};
