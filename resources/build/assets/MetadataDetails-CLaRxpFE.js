@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-DKeNU_JC.js";export{e as default};
