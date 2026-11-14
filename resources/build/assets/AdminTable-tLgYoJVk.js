@@ -1,1 +1,0 @@
-import{t as e}from"./AdminTable-Ce2Wlpi3.js";export{e as default};
