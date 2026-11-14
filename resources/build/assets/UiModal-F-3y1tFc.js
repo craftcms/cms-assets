@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-btFPkzB-.js";export{e as default};

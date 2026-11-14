@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-DEqzghUj.js";export{e as default};

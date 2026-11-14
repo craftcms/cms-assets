@@ -1,1 +1,0 @@
-import{t as e}from"./MetadataDetails-CBKfQLpx.js";export{e as default};
