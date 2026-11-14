@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-DjatTq4Y.js";export{e as default};
