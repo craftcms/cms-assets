@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-hWZtL-gb.js";export{e as default};
