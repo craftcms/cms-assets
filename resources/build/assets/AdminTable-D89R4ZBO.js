@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-Dxo3hgll.js";export{e as default};
