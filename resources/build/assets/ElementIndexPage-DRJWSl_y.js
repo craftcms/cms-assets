@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-BzG3GOan.js";export{e as default};
