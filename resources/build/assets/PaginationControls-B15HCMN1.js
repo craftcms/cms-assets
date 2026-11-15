@@ -1,0 +1,1 @@
+import{t as e}from"./PaginationControls-BwR_rewj.js";export{e as default};
