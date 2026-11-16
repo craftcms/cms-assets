@@ -1,1 +1,0 @@
-import{t as e}from"./ElementIndexPage-BtoUgSLc.js";export{e as default};

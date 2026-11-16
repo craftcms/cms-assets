@@ -1,1 +1,0 @@
-import{t as e}from"./MetadataDetails-BPFtiyA0.js";export{e as default};
