@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-DB47weFb.js";export{e as default};
