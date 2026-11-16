@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CBvayA_P.js";export{e as default};

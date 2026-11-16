@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-BOFgQAk2.js";export{e as default};

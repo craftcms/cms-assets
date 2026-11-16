@@ -1,0 +1,1 @@
+import{t as e}from"./ModalForm-BxRYK_W_.js";export{e as default};

@@ -1,1 +1,0 @@
-import{t as e}from"./UiModal-DtV1byE_.js";export{e as default};
