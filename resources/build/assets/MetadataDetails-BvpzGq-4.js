@@ -1,1 +1,0 @@
-import{t as e}from"./MetadataDetails-C2Y__Xif.js";export{e as default};
