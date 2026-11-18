@@ -1,0 +1,1 @@
+import{G as e,I as t,Jt as n,K as r,Vt as i,nr as a,nt as o}from"./vue.esm-bundler-6ql8m0cP.js";import{n as s}from"./useWidgetHeader-CYbXvWBw.js";var c=o({__name:`WidgetHeaderActions`,setup(o){let{actionsTarget:c}=s();return(o,s)=>a(c)?(i(),e(t,{key:0,to:a(c)},[n(o.$slots,`default`)],8,[`to`])):r(``,!0)}});export{c as t};
