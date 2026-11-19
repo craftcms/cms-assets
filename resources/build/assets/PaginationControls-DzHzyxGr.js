@@ -1,0 +1,1 @@
+import{t as e}from"./PaginationControls-BexOtzry.js";export{e as default};
