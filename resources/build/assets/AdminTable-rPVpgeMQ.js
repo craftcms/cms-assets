@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BDtpMHS4.js";export{e as default};
