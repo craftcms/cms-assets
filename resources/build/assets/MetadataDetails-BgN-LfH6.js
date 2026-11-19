@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-CBSQApv1.js";export{e as default};
