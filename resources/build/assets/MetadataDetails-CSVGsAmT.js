@@ -1,1 +1,0 @@
-import{t as e}from"./MetadataDetails-DDM7AME2.js";export{e as default};
