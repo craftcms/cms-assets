@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-BKgaS-9G.js";export{e as default};
