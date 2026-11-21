@@ -1,0 +1,1 @@
+import{t as e}from"./Config.ts-CMTyoefP.js";function t(t,n=!1){return e.getInstance().get(`elementTypeNames`,{})[t]?.[n?3:2]}export{t};
