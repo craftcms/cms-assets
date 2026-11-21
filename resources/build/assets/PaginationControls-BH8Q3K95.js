@@ -1,0 +1,1 @@
+import{t as e}from"./PaginationControls-BZfAbcse.js";export{e as default};

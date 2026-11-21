@@ -1,1 +1,0 @@
-import{t as e}from"./MetadataDetails-BeiZVxTo.js";export{e as default};
