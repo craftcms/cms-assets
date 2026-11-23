@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CRok87aR.js";export{e as default};

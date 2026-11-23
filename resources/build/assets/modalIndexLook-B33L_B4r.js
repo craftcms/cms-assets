@@ -1,0 +1,1 @@
+import{t as e}from"./useStorage-yzNK1dDK.js";function t(t){return e(`elementindex.${t}.modal.look`)}function n(e){try{return JSON.parse(localStorage.getItem(t(e))??`null`)}catch{return null}}function r(e,n){localStorage.setItem(t(e),JSON.stringify(n))}export{r as n,n as t};
