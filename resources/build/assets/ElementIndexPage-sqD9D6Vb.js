@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CdJonvdi.js";export{e as default};
