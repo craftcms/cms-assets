@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-CGKRSGun.js";export{e as default};
