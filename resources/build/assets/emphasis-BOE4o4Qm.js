@@ -1,0 +1,1 @@
+var e=/(\*+)([^*\n]+)\1/g;function t(t){let n=[],r=new RegExp(e),i=0,a;for(;(a=r.exec(t))!==null;)a.index>i&&n.push({text:t.slice(i,a.index),strong:!1}),n.push({text:a[2],strong:!0}),i=a.index+a[0].length;return i<t.length&&n.push({text:t.slice(i),strong:!1}),n}function n(t){return t.replace(e,`$2`)}export{n,t};
