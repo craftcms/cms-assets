@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-vne_f2BR.js";export{e as default};
