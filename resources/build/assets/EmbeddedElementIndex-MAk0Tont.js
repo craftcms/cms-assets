@@ -1,1 +1,0 @@
-import{t as e}from"./EmbeddedElementIndex-DCTZ_M0_.js";export{e as default};
