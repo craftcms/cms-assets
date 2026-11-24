@@ -1,0 +1,1 @@
+import{t as e}from"./PaginationControls-DEWJi_Z5.js";export{e as default};

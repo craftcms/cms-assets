@@ -1,1 +1,0 @@
-import{t as e}from"./MetadataDetails-BYb_wQ-j.js";export{e as default};

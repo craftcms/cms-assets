@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-DeF7VsVQ.js";export{e as default};

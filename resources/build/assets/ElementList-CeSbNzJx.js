@@ -1,0 +1,1 @@
+import{t as e}from"./ElementList-SO3z_CHG.js";export{e as default};
