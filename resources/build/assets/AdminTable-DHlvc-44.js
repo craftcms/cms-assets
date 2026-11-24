@@ -1,0 +1,1 @@
+import{t as e}from"./AdminTable-DplkJUen.js";export{e as default};
