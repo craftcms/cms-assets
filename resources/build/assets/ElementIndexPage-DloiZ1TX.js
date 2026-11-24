@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CUPJVf_k.js";export{e as default};
