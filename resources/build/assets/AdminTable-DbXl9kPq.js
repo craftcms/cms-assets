@@ -1,1 +1,0 @@
-import{t as e}from"./AdminTable-Dl4y7-NN.js";export{e as default};
