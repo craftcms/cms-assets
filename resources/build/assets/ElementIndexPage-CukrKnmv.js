@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-CMzu8cGp.js";export{e as default};
