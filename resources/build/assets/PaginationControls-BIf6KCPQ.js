@@ -1,0 +1,1 @@
+import{t as e}from"./PaginationControls-CgjJSbFc.js";export{e as default};
