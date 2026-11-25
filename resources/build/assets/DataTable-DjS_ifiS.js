@@ -1,1 +1,0 @@
-import{t as e}from"./DataTable-COilge-i.js";export{e as default};
