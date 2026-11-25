@@ -1,0 +1,1 @@
+import{t as e}from"./UiModal-B_1-Kr2y.js";export{e as default};
