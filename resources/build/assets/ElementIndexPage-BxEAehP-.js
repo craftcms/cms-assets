@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-D2vhlvDO.js";export{e as default};
