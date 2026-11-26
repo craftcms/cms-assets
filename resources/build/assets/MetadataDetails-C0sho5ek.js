@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-DyNBu6xB.js";export{e as default};
