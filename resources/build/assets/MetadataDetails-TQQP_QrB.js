@@ -1,0 +1,1 @@
+import{t as e}from"./MetadataDetails-BcR5PI80.js";export{e as default};

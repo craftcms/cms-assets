@@ -1,0 +1,1 @@
+import{t as e}from"./PaginationControls-CIkaT-dR.js";export{e as default};
