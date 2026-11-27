@@ -1,0 +1,1 @@
+import{t as e}from"./ElementIndexPage-BonzBYjc.js";export{e as default};
