@@ -2093,6 +2093,42 @@
       "_pane.ts-BVD9ThUG.js"
     ]
   },
+  "_cp-Bu5ZAnLV.js": {
+    "file": "assets/cp-Bu5ZAnLV.js",
+    "name": "cp",
+    "imports": [
+      "_translate.ts-DW16fAdu.js",
+      "_field-CafPjHry-DYV9CWSl.js",
+      "_external-links.ts-D9CFywYE.js",
+      "_Config.ts-CMTyoefP.js",
+      "_http.ts-Dxb5bouu.js",
+      "_cp-CeBFHYQD.js",
+      "_dist-BftnOi5A.js",
+      "_wayfinder-Byp9MxZi.js",
+      "_useSlideout-lOBuxBOg.js",
+      "_AppLayout-DHEG_oR_.js",
+      "_useAnnouncer-C7esDrub.js",
+      "_messages-BJMYWDSS.js",
+      "_shortcuts-DfDl8PAs.js",
+      "_messages-BFRXIbMv.js",
+      "_slideouts-DbJ28Gz9.js",
+      "_field-toggle-4oOvEJz6.js",
+      "_broadcast-BzFidTn7.js",
+      "_clipboard-CvG_xHWn.js",
+      "_view-state-sync-D4fdfQCb.js",
+      "_element-instances-DMOZlNoG.js",
+      "_ui-values-DqaNb1Be.js",
+      "_cp-app-NWN7wbXY.js",
+      "_elevated-session-nVdXQEi6.js",
+      "_components-DBRefaOh.js",
+      "_element-details-panels-hjCbyVI0.js",
+      "_assistant-D8JPvMjB.js",
+      "_lifecycle-DDlD1yY_.js"
+    ],
+    "css": [
+      "assets/cp-DiREhtxd.css"
+    ]
+  },
   "_cp-CTr6t9TU.js": {
     "file": "assets/cp-CTr6t9TU.js",
     "name": "cp",
@@ -2123,48 +2159,16 @@
       "_apiClient.ts-Dxzf5kBZ.js"
     ]
   },
-  "_cp-D--EyHwx.js": {
-    "file": "assets/cp-D--EyHwx.js",
-    "name": "cp",
-    "imports": [
-      "_translate.ts-DW16fAdu.js",
-      "_field-CafPjHry-DYV9CWSl.js",
-      "_external-links.ts-D9CFywYE.js",
-      "_Config.ts-CMTyoefP.js",
-      "_http.ts-Dxb5bouu.js",
-      "_cp-CeBFHYQD.js",
-      "_dist-BftnOi5A.js",
-      "_wayfinder-Byp9MxZi.js",
-      "_useSlideout-lOBuxBOg.js",
-      "_AppLayout-DHEG_oR_.js",
-      "_useAnnouncer-C7esDrub.js",
-      "_messages-BJMYWDSS.js",
-      "_shortcuts-DfDl8PAs.js",
-      "_messages-BFRXIbMv.js",
-      "_slideouts-DbJ28Gz9.js",
-      "_field-toggle-4oOvEJz6.js",
-      "_broadcast-BzFidTn7.js",
-      "_clipboard-CvG_xHWn.js",
-      "_view-state-sync-D4fdfQCb.js",
-      "_element-instances-DMOZlNoG.js",
-      "_ui-values-DqaNb1Be.js",
-      "_cp-app-Ck5V4jFm.js",
-      "_elevated-session-nVdXQEi6.js",
-      "_components-DBRefaOh.js",
-      "_element-details-panels-hjCbyVI0.js",
-      "_assistant-D8JPvMjB.js",
-      "_lifecycle-DDlD1yY_.js"
-    ],
-    "css": [
-      "assets/cp-DiREhtxd.css"
-    ]
-  },
   "_cp-DiREhtxd.css": {
     "file": "assets/cp-DiREhtxd.css",
     "src": "_cp-DiREhtxd.css"
   },
-  "_cp-app-Ck5V4jFm.js": {
-    "file": "assets/cp-app-Ck5V4jFm.js",
+  "_cp-app-DNbH4SnJ.css": {
+    "file": "assets/cp-app-DNbH4SnJ.css",
+    "src": "_cp-app-DNbH4SnJ.css"
+  },
+  "_cp-app-NWN7wbXY.js": {
+    "file": "assets/cp-app-NWN7wbXY.js",
     "name": "cp-app",
     "imports": [
       "_translate.ts-DW16fAdu.js",
@@ -2295,10 +2299,6 @@
     "css": [
       "assets/cp-app-DNbH4SnJ.css"
     ]
-  },
-  "_cp-app-DNbH4SnJ.css": {
-    "file": "assets/cp-app-DNbH4SnJ.css",
-    "src": "_cp-app-DNbH4SnJ.css"
   },
   "_cp-global-sidebar-BiTuZ10x.js": {
     "file": "assets/cp-global-sidebar-BiTuZ10x.js",
@@ -2585,8 +2585,8 @@
       "assets/deletion-blockers-modal-Bo_FmLRo.css"
     ]
   },
-  "_deletion-blockers-modal-H_KIbDzN.js": {
-    "file": "assets/deletion-blockers-modal-H_KIbDzN.js",
+  "_deletion-blockers-modal-vZDvo3gE.js": {
+    "file": "assets/deletion-blockers-modal-vZDvo3gE.js",
     "name": "deletion-blockers-modal",
     "imports": [
       "_translate.ts-DW16fAdu.js",
@@ -4487,12 +4487,12 @@
     ]
   },
   "resources/js/bootstrap/cp.ts": {
-    "file": "assets/cp-D6Wj2inV.js",
+    "file": "assets/cp-CHve-SHk.js",
     "name": "cp",
     "src": "resources/js/bootstrap/cp.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_cp-D--EyHwx.js"
+      "_cp-Bu5ZAnLV.js"
     ]
   },
   "resources/js/common/components/ActionMenu.vue": {
@@ -4814,7 +4814,7 @@
     ]
   },
   "resources/js/cp.ts": {
-    "file": "assets/cp-G7q6xx33.js",
+    "file": "assets/cp-C7dxArnk.js",
     "name": "cp",
     "src": "resources/js/cp.ts",
     "isEntry": true,
@@ -4827,7 +4827,7 @@
       "_thumbnail-loader.ts-DV_9QuIU.js",
       "_preload-helper-HclGiUj8.js",
       "_vue.esm-bundler-6ql8m0cP.js",
-      "_cp-D--EyHwx.js",
+      "_cp-Bu5ZAnLV.js",
       "_useSlideout-lOBuxBOg.js",
       "_dist-DAYZofIh.js",
       "_AppLayout-DHEG_oR_.js",
@@ -4846,7 +4846,7 @@
       "_UiRenderer-BgHGi_v2.js",
       "_useElementActionMenu-DULFgjxp.js",
       "_EditElementController-BsQBjyP_.js",
-      "_deletion-blockers-modal-H_KIbDzN.js",
+      "_deletion-blockers-modal-vZDvo3gE.js",
       "_cp-queue-indicator-DNQEDIpd.js",
       "_cp-notification-center-0v9Fsxch.js",
       "_chip-actions-ZmUVPSUO.js",
@@ -4878,7 +4878,7 @@
     ]
   },
   "resources/js/legacy.ts": {
-    "file": "assets/legacy-8nrlEVKa.js",
+    "file": "assets/legacy-BXXZG_7X.js",
     "name": "legacy",
     "src": "resources/js/legacy.ts",
     "isEntry": true,
@@ -4895,14 +4895,14 @@
       "_elevated-session-nVdXQEi6.js",
       "_UiRenderer-BgHGi_v2.js",
       "_useElementActionMenu-DULFgjxp.js",
-      "_deletion-blockers-modal-H_KIbDzN.js",
+      "_deletion-blockers-modal-vZDvo3gE.js",
       "_auth-method-setup-slideout-CFZ020Pz.js",
       "_element-thumb-loader-COrgGBZA.js",
       "_set-password-form-ChlBKci_.js",
       "_verify-email-form-DIEH2NII.js"
     ],
     "dynamicImports": [
-      "_cp-D--EyHwx.js",
+      "_cp-Bu5ZAnLV.js",
       "_cp-global-sidebar-BiTuZ10x.js",
       "_cp-queue-indicator-DNQEDIpd.js",
       "_cp-notification-center-0v9Fsxch.js",
@@ -5634,7 +5634,7 @@
     ]
   },
   "resources/js/modules/ui/FieldLayoutDesignerControl.vue": {
-    "file": "assets/FieldLayoutDesignerControl-DmdsUPVi.js",
+    "file": "assets/FieldLayoutDesignerControl-DwX1bKX3.js",
     "name": "FieldLayoutDesignerControl",
     "src": "resources/js/modules/ui/FieldLayoutDesignerControl.vue",
     "isDynamicEntry": true,
@@ -7436,7 +7436,7 @@
     ]
   },
   "yii2-adapter/resources/js/cp-compat.ts": {
-    "file": "assets/cp-compat-BTqASbTx.js",
+    "file": "assets/cp-compat-zG2dMIIy.js",
     "name": "cp-compat",
     "src": "yii2-adapter/resources/js/cp-compat.ts",
     "isEntry": true,
@@ -7468,7 +7468,7 @@
       "_url-B5Rnp_UH.js",
       "_escapeHtml.ts-tB1FLMlE.js",
       "_element-types-DRizLGy0.js",
-      "_cp-app-Ck5V4jFm.js",
+      "_cp-app-NWN7wbXY.js",
       "_jquery-tc4g_oNo.js",
       "_defineElement-BN867Cfb.js",
       "_queue-DWcEtNlt.js",
